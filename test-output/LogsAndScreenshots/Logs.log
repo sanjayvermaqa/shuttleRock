@@ -1,0 +1,1331 @@
+05-09-2021 00:02:57 INFO - ==========================================================================================
+05-09-2021 00:02:57 INFO - Starting test  Positive Tests
+05-09-2021 00:02:57 INFO - ==========================================================================================
+05-09-2021 00:04:04 INFO - ==========================================================================================
+05-09-2021 00:04:04 INFO - Starting test  Positive Tests
+05-09-2021 00:04:04 INFO - ==========================================================================================
+05-09-2021 00:14:47 INFO - ==========================================================================================
+05-09-2021 00:14:47 INFO - Starting test  Positive Tests
+05-09-2021 00:14:47 INFO - ==========================================================================================
+05-09-2021 00:25:38 INFO - ==========================================================================================
+05-09-2021 00:25:38 INFO - Starting test  pageValidation
+05-09-2021 00:25:38 INFO - ==========================================================================================
+05-09-2021 00:25:38 INFO - =======================================End Test===========================================
+05-09-2021 00:25:38 INFO - ==========================================================================================
+05-09-2021 00:25:38 INFO - Starting test  positiveTests
+05-09-2021 00:25:38 INFO - ==========================================================================================
+05-09-2021 00:25:38 INFO - =======================================End Test===========================================
+05-09-2021 00:29:33 INFO - ==========================================================================================
+05-09-2021 00:29:33 INFO - Starting test  pageValidation
+05-09-2021 00:29:33 INFO - ==========================================================================================
+05-09-2021 00:29:33 INFO - Validating elements on the page
+05-09-2021 00:29:33 INFO - Proceed with empty value
+05-09-2021 00:29:34 INFO - =======================================End Test===========================================
+05-09-2021 00:29:34 INFO - ==========================================================================================
+05-09-2021 00:29:34 INFO - Starting test  positiveTests
+05-09-2021 00:29:34 INFO - ==========================================================================================
+05-09-2021 00:29:34 INFO - =======================================End Test===========================================
+05-09-2021 00:34:29 INFO - ==========================================================================================
+05-09-2021 00:34:29 INFO - Starting test  pageValidation
+05-09-2021 00:34:29 INFO - ==========================================================================================
+05-09-2021 00:34:29 INFO - Validating elements on the page
+05-09-2021 00:34:29 INFO - Proceed with empty value
+05-09-2021 00:34:30 INFO - Proceed with space value
+05-09-2021 00:34:31 INFO - Proceed with negative number value
+05-09-2021 00:34:32 INFO - Proceed with alphabetic value
+05-09-2021 00:34:33 INFO - Proceed with alphanumeric value
+05-09-2021 00:34:34 INFO - Proceed with special character value
+05-09-2021 00:34:34 INFO - =======================================End Test===========================================
+05-09-2021 00:34:34 INFO - ==========================================================================================
+05-09-2021 00:34:34 INFO - Starting test  positiveTests
+05-09-2021 00:34:34 INFO - ==========================================================================================
+05-09-2021 00:34:34 INFO - =======================================End Test===========================================
+05-09-2021 00:52:45 INFO - ==========================================================================================
+05-09-2021 00:52:45 INFO - Starting test  pageValidation
+05-09-2021 00:52:45 INFO - ==========================================================================================
+05-09-2021 00:52:45 INFO - Validating elements on the page
+05-09-2021 00:52:45 INFO - Proceed with empty value
+05-09-2021 00:52:46 INFO - Proceed with space value
+05-09-2021 00:52:47 INFO - Proceed with negative number value
+05-09-2021 00:52:48 INFO - Proceed with alphabetic value
+05-09-2021 00:52:49 INFO - Proceed with alphanumeric value
+05-09-2021 00:52:50 INFO - Proceed with special character value
+05-09-2021 00:52:50 INFO - =======================================End Test===========================================
+05-09-2021 00:52:50 INFO - ==========================================================================================
+05-09-2021 00:52:50 INFO - Starting test  positiveTests
+05-09-2021 00:52:50 INFO - ==========================================================================================
+05-09-2021 00:52:50 INFO - Random number generated to proceed is - 0.3532961045064965
+05-09-2021 00:52:51 INFO - Actual factorial value of 0.3532961045064965 is The factorial of 0.3532961045064965 is: 1.0
+05-09-2021 00:52:51 INFO - Factorial value obtained from UI is - Please enter an intger
+05-09-2021 00:52:51 INFO - =======================================End Test===========================================
+05-09-2021 01:00:34 INFO - ==========================================================================================
+05-09-2021 01:00:34 INFO - Starting test  pageValidation
+05-09-2021 01:00:34 INFO - ==========================================================================================
+05-09-2021 01:00:34 INFO - Validating elements on the page
+05-09-2021 01:00:34 INFO - Proceed with empty value
+05-09-2021 01:00:35 INFO - Proceed with space value
+05-09-2021 01:00:36 INFO - Proceed with negative number value
+05-09-2021 01:00:37 INFO - Proceed with alphabetic value
+05-09-2021 01:00:39 INFO - Proceed with alphanumeric value
+05-09-2021 01:00:39 INFO - Proceed with special character value
+05-09-2021 01:00:40 INFO - =======================================End Test===========================================
+05-09-2021 01:00:40 INFO - ==========================================================================================
+05-09-2021 01:00:40 INFO - Starting test  positiveTests
+05-09-2021 01:00:40 INFO - ==========================================================================================
+05-09-2021 01:00:41 INFO - Random number generated to proceed is - 0.5512851612674391
+05-09-2021 01:00:41 INFO - Factorial value obtained from UI is - Please enter an intger
+05-09-2021 01:00:41 INFO - Actual factorial value of 0.5512851612674391 is The factorial of 0.5512851612674391 is: 1.0
+05-09-2021 01:00:41 INFO - Test Passed
+05-09-2021 01:00:41 INFO - =======================================End Test===========================================
+05-09-2021 01:06:43 INFO - ==========================================================================================
+05-09-2021 01:06:43 INFO - Starting test  pageValidation
+05-09-2021 01:06:43 INFO - ==========================================================================================
+05-09-2021 01:06:43 INFO - Validating elements on the page
+05-09-2021 01:06:44 INFO - Proceed with empty value
+05-09-2021 01:06:44 INFO - Proceed with space value
+05-09-2021 01:06:45 INFO - Proceed with negative number value
+05-09-2021 01:06:46 INFO - Proceed with alphabetic value
+05-09-2021 01:06:47 INFO - Proceed with alphanumeric value
+05-09-2021 01:06:48 INFO - Proceed with special character value
+05-09-2021 01:06:49 INFO - =======================================End Test===========================================
+05-09-2021 01:06:49 INFO - ==========================================================================================
+05-09-2021 01:06:49 INFO - Starting test  positiveTests
+05-09-2021 01:06:49 INFO - ==========================================================================================
+05-09-2021 01:06:49 INFO - Random number generated to proceed is - 0.35590817705674693
+05-09-2021 01:06:50 INFO - Factorial value obtained from UI is - Please enter an intger
+05-09-2021 01:06:50 INFO - Actual factorial value of 0.35590817705674693 is The factorial of 0.35590817705674693 is: 1.0
+05-09-2021 01:06:50 INFO - Test Passed
+05-09-2021 01:06:50 INFO - Random number generated to proceed is - 0.5906930231479093
+05-09-2021 01:06:50 INFO - Factorial value obtained from UI is - Please enter an intger
+05-09-2021 01:06:50 INFO - Actual factorial value of 0.5906930231479093 is The factorial of 0.5906930231479093 is: 1.0
+05-09-2021 01:06:50 INFO - Test Passed
+05-09-2021 01:06:51 INFO - Random number generated to proceed is - 0.4938454147674888
+05-09-2021 01:06:51 INFO - Factorial value obtained from UI is - Please enter an intger
+05-09-2021 01:06:51 INFO - Actual factorial value of 0.4938454147674888 is The factorial of 0.4938454147674888 is: 1.0
+05-09-2021 01:06:51 INFO - Test Passed
+05-09-2021 01:06:51 INFO - =======================================End Test===========================================
+05-09-2021 01:08:15 INFO - ==========================================================================================
+05-09-2021 01:08:15 INFO - Starting test  pageValidation
+05-09-2021 01:08:15 INFO - ==========================================================================================
+05-09-2021 01:08:20 INFO - Validating elements on the page
+05-09-2021 01:08:20 INFO - Proceed with empty value
+05-09-2021 01:08:20 INFO - Proceed with space value
+05-09-2021 01:08:21 INFO - Proceed with negative number value
+05-09-2021 01:08:22 INFO - Proceed with alphabetic value
+05-09-2021 01:08:23 INFO - Proceed with alphanumeric value
+05-09-2021 01:08:24 INFO - Proceed with special character value
+05-09-2021 01:08:25 INFO - =======================================End Test===========================================
+05-09-2021 01:08:25 INFO - ==========================================================================================
+05-09-2021 01:08:25 INFO - Starting test  positiveTests
+05-09-2021 01:08:25 INFO - ==========================================================================================
+05-09-2021 01:08:25 INFO - Random number generated to proceed is - 0.1916750545472521
+05-09-2021 01:08:25 INFO - Factorial value obtained from UI is - Please enter an intger
+05-09-2021 01:09:31 INFO - Actual factorial value of 0.1916750545472521 is The factorial of 0.1916750545472521 is: 1.0
+05-09-2021 01:09:31 INFO - Test Passed
+05-09-2021 01:09:45 INFO - Actual factorial value of 0.1916750545472521 is The factorial of 0.1916750545472521 is: 1.0
+05-09-2021 01:09:45 INFO - Test Passed
+05-09-2021 01:10:05 INFO - Actual factorial value of 0.1916750545472521 is The factorial of 0.1916750545472521 is: 1.0
+05-09-2021 01:12:24 INFO - Actual factorial value of 0.1916750545472521 is The factorial of 0.1916750545472521 is: 1.0
+05-09-2021 01:12:24 INFO - Test Passed
+05-09-2021 01:15:02 INFO - ==========================================================================================
+05-09-2021 01:15:02 INFO - Starting test  pageValidation
+05-09-2021 01:15:02 INFO - ==========================================================================================
+05-09-2021 01:15:02 INFO - Validating elements on the page
+05-09-2021 01:15:02 INFO - Proceed with empty value
+05-09-2021 01:15:03 INFO - Proceed with space value
+05-09-2021 01:15:04 INFO - Proceed with negative number value
+05-09-2021 01:15:05 INFO - Proceed with alphabetic value
+05-09-2021 01:15:06 INFO - Proceed with alphanumeric value
+05-09-2021 01:15:06 INFO - Proceed with special character value
+05-09-2021 01:15:07 INFO - =======================================End Test===========================================
+05-09-2021 01:15:07 INFO - ==========================================================================================
+05-09-2021 01:15:07 INFO - Starting test  positiveTests
+05-09-2021 01:15:07 INFO - ==========================================================================================
+05-09-2021 01:15:08 INFO - Random number generated to proceed is - 38.64494204728841
+05-09-2021 01:15:08 INFO - Factorial value obtained from UI is - Please enter an intger
+05-09-2021 01:15:08 INFO - Actual factorial value of 38.64494204728841 is The factorial of 38.64494204728841 is: 5.23022617466601E44
+05-09-2021 01:15:08 INFO - Test Passed
+05-09-2021 01:15:09 INFO - Random number generated to proceed is - 7.127759253380466
+05-09-2021 01:15:09 INFO - Factorial value obtained from UI is - Please enter an intger
+05-09-2021 01:15:09 INFO - Actual factorial value of 7.127759253380466 is The factorial of 7.127759253380466 is: 5040.0
+05-09-2021 01:15:09 INFO - Test Passed
+05-09-2021 01:15:09 INFO - Random number generated to proceed is - 127.6806382053683
+05-09-2021 01:15:10 INFO - Factorial value obtained from UI is - Please enter an intger
+05-09-2021 01:15:10 INFO - Actual factorial value of 127.6806382053683 is The factorial of 127.6806382053683 is: 3.012660018457658E213
+05-09-2021 01:15:10 INFO - Test Passed
+05-09-2021 01:15:10 INFO - =======================================End Test===========================================
+05-09-2021 01:15:46 INFO - ==========================================================================================
+05-09-2021 01:15:46 INFO - Starting test  pageValidation
+05-09-2021 01:15:46 INFO - ==========================================================================================
+05-09-2021 01:15:46 INFO - Validating elements on the page
+05-09-2021 01:15:46 INFO - Proceed with empty value
+05-09-2021 01:15:47 INFO - Proceed with space value
+05-09-2021 01:15:48 INFO - Proceed with negative number value
+05-09-2021 01:15:49 INFO - Proceed with alphabetic value
+05-09-2021 01:15:50 INFO - Proceed with alphanumeric value
+05-09-2021 01:15:51 INFO - Proceed with special character value
+05-09-2021 01:15:52 INFO - =======================================End Test===========================================
+05-09-2021 01:15:52 INFO - ==========================================================================================
+05-09-2021 01:15:52 INFO - Starting test  positiveTests
+05-09-2021 01:15:52 INFO - ==========================================================================================
+05-09-2021 01:15:52 INFO - Random number generated to proceed is - 157.7979462631227
+05-09-2021 01:15:53 INFO - Factorial value obtained from UI is - Please enter an intger
+05-09-2021 01:17:36 INFO - Actual factorial value of 157.7979462631227 is The factorial of 157.7979462631227 is: 1.1729568794264138E278
+05-09-2021 01:17:36 INFO - Test Passed
+05-09-2021 01:18:18 INFO - ==========================================================================================
+05-09-2021 01:18:18 INFO - Starting test  pageValidation
+05-09-2021 01:18:18 INFO - ==========================================================================================
+05-09-2021 01:18:18 INFO - Validating elements on the page
+05-09-2021 01:18:18 INFO - Proceed with empty value
+05-09-2021 01:18:19 INFO - Proceed with space value
+05-09-2021 01:18:20 INFO - Proceed with negative number value
+05-09-2021 01:18:21 INFO - Proceed with alphabetic value
+05-09-2021 01:18:22 INFO - Proceed with alphanumeric value
+05-09-2021 01:18:22 INFO - Proceed with special character value
+05-09-2021 01:18:23 INFO - =======================================End Test===========================================
+05-09-2021 01:18:23 INFO - ==========================================================================================
+05-09-2021 01:18:23 INFO - Starting test  positiveTests
+05-09-2021 01:18:23 INFO - ==========================================================================================
+05-09-2021 01:18:24 INFO - Random number generated to proceed is - 1237179119
+05-09-2021 01:18:24 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:18:27 INFO - Actual factorial value of 1237179119 is The factorial of 1237179119 is: Infinity
+05-09-2021 01:18:27 INFO - Test Passed
+05-09-2021 01:18:28 INFO - Random number generated to proceed is - 1701837259
+05-09-2021 01:18:28 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:18:31 INFO - Actual factorial value of 1701837259 is The factorial of 1701837259 is: Infinity
+05-09-2021 01:18:31 INFO - Test Passed
+05-09-2021 01:18:33 INFO - Random number generated to proceed is - -2029823645
+05-09-2021 01:18:33 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:18:33 INFO - Actual factorial value of -2029823645 is The factorial of -2029823645 is: 1.0
+05-09-2021 01:18:33 INFO - Test Passed
+05-09-2021 01:18:33 INFO - =======================================End Test===========================================
+05-09-2021 01:19:59 INFO - ==========================================================================================
+05-09-2021 01:19:59 INFO - Starting test  pageValidation
+05-09-2021 01:19:59 INFO - ==========================================================================================
+05-09-2021 01:19:59 INFO - Validating elements on the page
+05-09-2021 01:19:59 INFO - Proceed with empty value
+05-09-2021 01:20:00 INFO - Proceed with space value
+05-09-2021 01:20:01 INFO - Proceed with negative number value
+05-09-2021 01:20:01 INFO - Proceed with alphabetic value
+05-09-2021 01:20:02 INFO - Proceed with alphanumeric value
+05-09-2021 01:20:03 INFO - Proceed with special character value
+05-09-2021 01:20:04 INFO - =======================================End Test===========================================
+05-09-2021 01:20:04 INFO - ==========================================================================================
+05-09-2021 01:20:04 INFO - Starting test  positiveTests
+05-09-2021 01:20:04 INFO - ==========================================================================================
+05-09-2021 01:20:05 INFO - Random number generated to proceed is - -1866184799
+05-09-2021 01:20:05 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:20:05 INFO - Actual factorial value of -1866184799 is The factorial of -1866184799 is: 1.0
+05-09-2021 01:20:05 INFO - Test Passed
+05-09-2021 01:20:05 INFO - Random number generated to proceed is - 233519108
+05-09-2021 01:20:05 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:20:06 INFO - Actual factorial value of 233519108 is The factorial of 233519108 is: Infinity
+05-09-2021 01:20:06 INFO - Test Passed
+05-09-2021 01:20:07 INFO - Random number generated to proceed is - 685729198
+05-09-2021 01:20:07 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:20:08 INFO - Actual factorial value of 685729198 is The factorial of 685729198 is: Infinity
+05-09-2021 01:20:08 INFO - Test Passed
+05-09-2021 01:20:08 INFO - =======================================End Test===========================================
+05-09-2021 01:23:58 INFO - ==========================================================================================
+05-09-2021 01:23:58 INFO - Starting test  pageValidation
+05-09-2021 01:23:58 INFO - ==========================================================================================
+05-09-2021 01:23:58 INFO - Validating elements on the page
+05-09-2021 01:23:58 INFO - Proceed with empty value
+05-09-2021 01:23:59 INFO - Proceed with space value
+05-09-2021 01:24:00 INFO - Proceed with negative number value
+05-09-2021 01:24:01 INFO - Proceed with alphabetic value
+05-09-2021 01:24:02 INFO - Proceed with alphanumeric value
+05-09-2021 01:24:02 INFO - Proceed with special character value
+05-09-2021 01:24:03 INFO - =======================================End Test===========================================
+05-09-2021 01:24:03 INFO - ==========================================================================================
+05-09-2021 01:24:03 INFO - Starting test  positiveTests
+05-09-2021 01:24:03 INFO - ==========================================================================================
+05-09-2021 01:24:04 INFO - Random number generated to proceed is - 34
+05-09-2021 01:24:04 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:24:04 INFO - Actual factorial value of 34 is The factorial of 34 is: 2.9523279903960412E38
+05-09-2021 01:24:04 INFO - Test Passed
+05-09-2021 01:24:05 INFO - Random number generated to proceed is - 51
+05-09-2021 01:24:05 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:24:05 INFO - Actual factorial value of 51 is The factorial of 51 is: 1.5511187532873822E66
+05-09-2021 01:24:05 INFO - Test Passed
+05-09-2021 01:24:06 INFO - Random number generated to proceed is - 70
+05-09-2021 01:24:06 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:24:06 INFO - Actual factorial value of 70 is The factorial of 70 is: 1.197857166996989E100
+05-09-2021 01:24:06 INFO - Test Passed
+05-09-2021 01:24:06 INFO - =======================================End Test===========================================
+05-09-2021 01:25:17 INFO - ==========================================================================================
+05-09-2021 01:25:17 INFO - Starting test  pageValidation
+05-09-2021 01:25:17 INFO - ==========================================================================================
+05-09-2021 01:25:17 INFO - Validating elements on the page
+05-09-2021 01:25:17 INFO - Proceed with empty value
+05-09-2021 01:25:18 INFO - Proceed with space value
+05-09-2021 01:25:19 INFO - Proceed with negative number value
+05-09-2021 01:25:20 INFO - Proceed with alphabetic value
+05-09-2021 01:25:20 INFO - Proceed with alphanumeric value
+05-09-2021 01:25:21 INFO - Proceed with special character value
+05-09-2021 01:25:22 INFO - =======================================End Test===========================================
+05-09-2021 01:25:22 INFO - ==========================================================================================
+05-09-2021 01:25:22 INFO - Starting test  positiveTests
+05-09-2021 01:25:22 INFO - ==========================================================================================
+05-09-2021 01:25:23 INFO - Random number generated to proceed is - 31
+05-09-2021 01:27:42 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:27:42 INFO - Actual factorial value of 31 is The factorial of 31 is: 8.222838654177922E33
+05-09-2021 01:27:42 INFO - Test Passed
+05-09-2021 01:28:21 INFO - ==========================================================================================
+05-09-2021 01:28:21 INFO - Starting test  pageValidation
+05-09-2021 01:28:21 INFO - ==========================================================================================
+05-09-2021 01:28:21 INFO - Validating elements on the page
+05-09-2021 01:28:21 INFO - Proceed with empty value
+05-09-2021 01:28:22 INFO - Proceed with space value
+05-09-2021 01:28:23 INFO - Proceed with negative number value
+05-09-2021 01:28:24 INFO - Proceed with alphabetic value
+05-09-2021 01:28:25 INFO - Proceed with alphanumeric value
+05-09-2021 01:28:25 INFO - Proceed with special character value
+05-09-2021 01:28:26 INFO - =======================================End Test===========================================
+05-09-2021 01:28:26 INFO - ==========================================================================================
+05-09-2021 01:28:26 INFO - Starting test  positiveTests
+05-09-2021 01:28:26 INFO - ==========================================================================================
+05-09-2021 01:28:27 INFO - Random number generated to proceed is - 47
+05-09-2021 01:28:27 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:28:27 INFO - Actual factorial value of 47 is The factorial of 47 is: 2.5862324151116818E59
+05-09-2021 01:28:27 INFO - Test Passed
+05-09-2021 01:28:28 INFO - Random number generated to proceed is - 139
+05-09-2021 01:28:28 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:28:28 INFO - Actual factorial value of 139 is The factorial of 139 is: 9.615723196941086E238
+05-09-2021 01:28:28 INFO - Test Passed
+05-09-2021 01:28:28 INFO - Random number generated to proceed is - 14
+05-09-2021 01:28:29 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:28:29 INFO - Actual factorial value of 14 is The factorial of 14 is: 8.71782912E10
+05-09-2021 01:28:29 INFO - Test Passed
+05-09-2021 01:28:29 INFO - =======================================End Test===========================================
+05-09-2021 01:29:21 INFO - ==========================================================================================
+05-09-2021 01:29:21 INFO - Starting test  pageValidation
+05-09-2021 01:29:21 INFO - ==========================================================================================
+05-09-2021 01:29:21 INFO - Validating elements on the page
+05-09-2021 01:29:21 INFO - Proceed with empty value
+05-09-2021 01:29:22 INFO - Proceed with space value
+05-09-2021 01:29:22 INFO - Proceed with negative number value
+05-09-2021 01:29:23 INFO - Proceed with alphabetic value
+05-09-2021 01:29:24 INFO - Proceed with alphanumeric value
+05-09-2021 01:29:25 INFO - Proceed with special character value
+05-09-2021 01:29:26 INFO - =======================================End Test===========================================
+05-09-2021 01:29:26 INFO - ==========================================================================================
+05-09-2021 01:29:26 INFO - Starting test  positiveTests
+05-09-2021 01:29:26 INFO - ==========================================================================================
+05-09-2021 01:29:26 INFO - Random number generated to proceed is - 130
+05-09-2021 01:30:17 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:30:19 INFO - Actual factorial value of 130 is The factorial of 130 is: 6.466855489220472E219
+05-09-2021 01:30:19 INFO - Test Passed
+05-09-2021 01:30:20 INFO - Random number generated to proceed is - 94
+05-09-2021 01:30:47 INFO - Factorial value obtained from UI is - The factorial of 94 is: 1.087366156656743e+146
+05-09-2021 01:30:54 INFO - Actual factorial value of 94 is The factorial of 94 is: 1.0873661566567424E146
+05-09-2021 01:30:55 INFO - Test Passed
+05-09-2021 01:30:59 INFO - Random number generated to proceed is - 169
+05-09-2021 01:31:03 INFO - Factorial value obtained from UI is - The factorial of 169 is: 4.269068009004705e+304
+05-09-2021 01:31:09 INFO - Actual factorial value of 169 is The factorial of 169 is: 4.2690680090047027E304
+05-09-2021 01:31:09 INFO - Test Passed
+05-09-2021 01:31:09 INFO - =======================================End Test===========================================
+05-09-2021 01:31:35 INFO - ==========================================================================================
+05-09-2021 01:31:35 INFO - Starting test  pageValidation
+05-09-2021 01:31:35 INFO - ==========================================================================================
+05-09-2021 01:31:35 INFO - Validating elements on the page
+05-09-2021 01:31:35 INFO - Proceed with empty value
+05-09-2021 01:31:36 INFO - Proceed with space value
+05-09-2021 01:31:37 INFO - Proceed with negative number value
+05-09-2021 01:31:38 INFO - Proceed with alphabetic value
+05-09-2021 01:31:38 INFO - Proceed with alphanumeric value
+05-09-2021 01:31:39 INFO - Proceed with special character value
+05-09-2021 01:31:40 INFO - =======================================End Test===========================================
+05-09-2021 01:31:40 INFO - ==========================================================================================
+05-09-2021 01:31:40 INFO - Starting test  positiveTests
+05-09-2021 01:31:40 INFO - ==========================================================================================
+05-09-2021 01:31:41 INFO - Random number generated to proceed is - 157
+05-09-2021 01:31:41 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:31:41 INFO - Actual factorial value of 157 is The factorial of 157 is: 1.1729568794264138E278
+05-09-2021 01:31:41 INFO - Test Passed
+05-09-2021 01:31:41 INFO - Random number generated to proceed is - 134
+05-09-2021 01:31:42 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:31:42 INFO - Actual factorial value of 134 is The factorial of 134 is: 1.992942746161518E228
+05-09-2021 01:31:42 INFO - Test Passed
+05-09-2021 01:31:42 INFO - Random number generated to proceed is - 118
+05-09-2021 01:31:42 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:31:42 INFO - Actual factorial value of 118 is The factorial of 118 is: 4.6845258497542883E194
+05-09-2021 01:31:42 INFO - Test Passed
+05-09-2021 01:31:42 INFO - =======================================End Test===========================================
+05-09-2021 01:32:35 INFO - ==========================================================================================
+05-09-2021 01:32:35 INFO - Starting test  pageValidation
+05-09-2021 01:32:35 INFO - ==========================================================================================
+05-09-2021 01:32:35 INFO - Validating elements on the page
+05-09-2021 01:32:35 INFO - Proceed with empty value
+05-09-2021 01:32:36 INFO - Proceed with space value
+05-09-2021 01:32:37 INFO - Proceed with negative number value
+05-09-2021 01:32:38 INFO - Proceed with alphabetic value
+05-09-2021 01:32:39 INFO - Proceed with alphanumeric value
+05-09-2021 01:32:40 INFO - Proceed with special character value
+05-09-2021 01:32:41 INFO - =======================================End Test===========================================
+05-09-2021 01:32:41 INFO - ==========================================================================================
+05-09-2021 01:32:41 INFO - Starting test  positiveTests
+05-09-2021 01:32:41 INFO - ==========================================================================================
+05-09-2021 01:32:41 INFO - Random number generated to proceed is - 35
+05-09-2021 01:32:41 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:32:41 INFO - Actual factorial value of 35 is The factorial of 35 is: 1.0333147966386144E40
+05-09-2021 01:32:41 INFO - Test Passed
+05-09-2021 01:32:42 INFO - Random number generated to proceed is - 80
+05-09-2021 01:32:42 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:32:42 INFO - Actual factorial value of 80 is The factorial of 80 is: 7.156945704626378E118
+05-09-2021 01:32:42 INFO - Test Passed
+05-09-2021 01:32:43 INFO - Random number generated to proceed is - 88
+05-09-2021 01:32:43 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:32:43 INFO - Actual factorial value of 88 is The factorial of 88 is: 1.8548264225739836E134
+05-09-2021 01:32:43 INFO - Test Passed
+05-09-2021 01:32:43 INFO - =======================================End Test===========================================
+05-09-2021 01:33:39 INFO - ==========================================================================================
+05-09-2021 01:33:39 INFO - Starting test  pageValidation
+05-09-2021 01:33:39 INFO - ==========================================================================================
+05-09-2021 01:33:39 INFO - Validating elements on the page
+05-09-2021 01:33:39 INFO - Proceed with empty value
+05-09-2021 01:33:40 INFO - Proceed with space value
+05-09-2021 01:33:41 INFO - Proceed with negative number value
+05-09-2021 01:33:42 INFO - Proceed with alphabetic value
+05-09-2021 01:33:42 INFO - Proceed with alphanumeric value
+05-09-2021 01:33:43 INFO - Proceed with special character value
+05-09-2021 01:33:44 INFO - =======================================End Test===========================================
+05-09-2021 01:33:44 INFO - ==========================================================================================
+05-09-2021 01:33:44 INFO - Starting test  positiveTests
+05-09-2021 01:33:44 INFO - ==========================================================================================
+05-09-2021 01:33:45 INFO - Random number generated to proceed is - 34
+05-09-2021 01:33:55 INFO - Factorial value obtained from UI is - The factorial of 34 is: 2.9523279903960416e+38
+05-09-2021 01:33:59 INFO - Actual factorial value of 34 is The factorial of 34 is: 2.9523279903960412E38
+05-09-2021 01:34:02 INFO - Test Passed
+05-09-2021 01:34:11 INFO - Random number generated to proceed is - 45
+05-09-2021 01:39:09 INFO - ==========================================================================================
+05-09-2021 01:39:09 INFO - Starting test  pageValidation
+05-09-2021 01:39:09 INFO - ==========================================================================================
+05-09-2021 01:39:09 INFO - Validating elements on the page
+05-09-2021 01:39:09 INFO - Proceed with empty value
+05-09-2021 01:39:10 INFO - Proceed with space value
+05-09-2021 01:39:11 INFO - Proceed with negative number value
+05-09-2021 01:39:12 INFO - Proceed with alphabetic value
+05-09-2021 01:39:12 INFO - Proceed with alphanumeric value
+05-09-2021 01:39:13 INFO - Proceed with special character value
+05-09-2021 01:39:14 INFO - =======================================End Test===========================================
+05-09-2021 01:39:14 INFO - ==========================================================================================
+05-09-2021 01:39:14 INFO - Starting test  positiveTests
+05-09-2021 01:39:14 INFO - ==========================================================================================
+05-09-2021 01:39:15 INFO - Random number generated to proceed is - 125
+05-09-2021 01:39:15 INFO - Factorial value obtained from UI is - The factorial of 125 is: 1.882677176888926e+209
+05-09-2021 01:39:15 INFO - Actual factorial value of 125 is The factorial of 125 is: 1.8826771768889254E209
+05-09-2021 01:39:15 INFO - Test Passed
+05-09-2021 01:39:16 INFO - Random number generated to proceed is - 72
+05-09-2021 01:39:17 INFO - Factorial value obtained from UI is - The factorial of 72 is: 6.1234458376886085e+103
+05-09-2021 01:39:17 INFO - Actual factorial value of 72 is The factorial of 72 is: 6.123445837688608E103
+05-09-2021 01:39:17 INFO - Test Passed
+05-09-2021 01:39:17 INFO - Random number generated to proceed is - 133
+05-09-2021 01:39:18 INFO - Factorial value obtained from UI is - The factorial of 133 is: 1.4872707060906857e+226
+05-09-2021 01:39:18 INFO - Actual factorial value of 133 is The factorial of 133 is: 1.4872707060906852E226
+05-09-2021 01:39:18 INFO - Test Passed
+05-09-2021 01:39:18 INFO - =======================================End Test===========================================
+05-09-2021 01:39:33 INFO - ==========================================================================================
+05-09-2021 01:39:33 INFO - Starting test  pageValidation
+05-09-2021 01:39:33 INFO - ==========================================================================================
+05-09-2021 01:39:33 INFO - Validating elements on the page
+05-09-2021 01:39:33 INFO - Proceed with empty value
+05-09-2021 01:39:34 INFO - Proceed with space value
+05-09-2021 01:39:35 INFO - Proceed with negative number value
+05-09-2021 01:39:36 INFO - Proceed with alphabetic value
+05-09-2021 01:39:37 INFO - Proceed with alphanumeric value
+05-09-2021 01:39:38 INFO - Proceed with special character value
+05-09-2021 01:39:39 INFO - =======================================End Test===========================================
+05-09-2021 01:39:39 INFO - ==========================================================================================
+05-09-2021 01:39:39 INFO - Starting test  positiveTests
+05-09-2021 01:39:39 INFO - ==========================================================================================
+05-09-2021 01:39:39 INFO - Random number generated to proceed is - 185
+05-09-2021 01:39:39 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:39:39 INFO - Actual factorial value of 185 is The factorial of 185 is: Infinity
+05-09-2021 01:39:39 INFO - Test Passed
+05-09-2021 01:39:40 INFO - Random number generated to proceed is - 195
+05-09-2021 01:39:40 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:39:40 INFO - Actual factorial value of 195 is The factorial of 195 is: Infinity
+05-09-2021 01:39:40 INFO - Test Passed
+05-09-2021 01:39:41 INFO - Random number generated to proceed is - 104
+05-09-2021 01:39:41 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:39:41 INFO - Actual factorial value of 104 is The factorial of 104 is: 1.0299016745145622E166
+05-09-2021 01:39:41 INFO - Test Passed
+05-09-2021 01:39:41 INFO - =======================================End Test===========================================
+05-09-2021 01:40:02 INFO - ==========================================================================================
+05-09-2021 01:40:02 INFO - Starting test  pageValidation
+05-09-2021 01:40:02 INFO - ==========================================================================================
+05-09-2021 01:40:02 INFO - Validating elements on the page
+05-09-2021 01:40:02 INFO - Proceed with empty value
+05-09-2021 01:40:03 INFO - Proceed with space value
+05-09-2021 01:40:04 INFO - Proceed with negative number value
+05-09-2021 01:40:04 INFO - Proceed with alphabetic value
+05-09-2021 01:40:05 INFO - Proceed with alphanumeric value
+05-09-2021 01:40:06 INFO - Proceed with special character value
+05-09-2021 01:40:07 INFO - =======================================End Test===========================================
+05-09-2021 01:40:07 INFO - ==========================================================================================
+05-09-2021 01:40:07 INFO - Starting test  positiveTests
+05-09-2021 01:40:07 INFO - ==========================================================================================
+05-09-2021 01:40:08 INFO - Random number generated to proceed is - 81
+05-09-2021 01:40:08 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:40:08 INFO - Actual factorial value of 81 is The factorial of 81 is: 5.797126020747366E120
+05-09-2021 01:40:08 INFO - Test Passed
+05-09-2021 01:40:09 INFO - Random number generated to proceed is - 106
+05-09-2021 01:40:09 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:40:09 INFO - Actual factorial value of 106 is The factorial of 106 is: 1.1462805637347078E170
+05-09-2021 01:40:09 INFO - Test Passed
+05-09-2021 01:40:10 INFO - Random number generated to proceed is - 44
+05-09-2021 01:40:10 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:40:10 INFO - Actual factorial value of 44 is The factorial of 44 is: 2.6582715747884485E54
+05-09-2021 01:40:10 INFO - Test Passed
+05-09-2021 01:40:10 INFO - =======================================End Test===========================================
+05-09-2021 01:40:35 INFO - ==========================================================================================
+05-09-2021 01:40:35 INFO - Starting test  pageValidation
+05-09-2021 01:40:35 INFO - ==========================================================================================
+05-09-2021 01:40:35 INFO - Validating elements on the page
+05-09-2021 01:40:35 INFO - Proceed with empty value
+05-09-2021 01:40:36 INFO - Proceed with space value
+05-09-2021 01:40:37 INFO - Proceed with negative number value
+05-09-2021 01:40:38 INFO - Proceed with alphabetic value
+05-09-2021 01:40:39 INFO - Proceed with alphanumeric value
+05-09-2021 01:40:40 INFO - Proceed with special character value
+05-09-2021 01:40:41 INFO - =======================================End Test===========================================
+05-09-2021 01:40:41 INFO - ==========================================================================================
+05-09-2021 01:40:41 INFO - Starting test  positiveTests
+05-09-2021 01:40:41 INFO - ==========================================================================================
+05-09-2021 01:40:41 INFO - Random number generated to proceed is - 128
+05-09-2021 01:40:42 INFO - Factorial value obtained from UI is - The factorial of 128 is: 3.856204823625804e+215
+05-09-2021 01:40:42 INFO - Actual factorial value of 128 is The factorial of 128 is: 3.8562048236258025E215
+05-09-2021 01:40:42 INFO - Test Passed
+05-09-2021 01:40:43 INFO - Random number generated to proceed is - 49
+05-09-2021 01:40:43 INFO - Factorial value obtained from UI is - The factorial of 49 is: 6.082818640342675e+62
+05-09-2021 01:40:43 INFO - Actual factorial value of 49 is The factorial of 49 is: 6.082818640342675E62
+05-09-2021 01:40:43 INFO - Test Passed
+05-09-2021 01:40:44 INFO - Random number generated to proceed is - 81
+05-09-2021 01:40:45 INFO - Factorial value obtained from UI is - The factorial of 81 is: 5.797126020747368e+120
+05-09-2021 01:40:45 INFO - Actual factorial value of 81 is The factorial of 81 is: 5.797126020747366E120
+05-09-2021 01:40:45 INFO - Test Passed
+05-09-2021 01:40:45 INFO - =======================================End Test===========================================
+05-09-2021 01:41:46 INFO - ==========================================================================================
+05-09-2021 01:41:46 INFO - Starting test  pageValidation
+05-09-2021 01:41:46 INFO - ==========================================================================================
+05-09-2021 01:41:46 INFO - Validating elements on the page
+05-09-2021 01:41:46 INFO - Proceed with empty value
+05-09-2021 01:41:47 INFO - Proceed with space value
+05-09-2021 01:41:48 INFO - Proceed with negative number value
+05-09-2021 01:41:49 INFO - Proceed with alphabetic value
+05-09-2021 01:41:49 INFO - Proceed with alphanumeric value
+05-09-2021 01:41:50 INFO - Proceed with special character value
+05-09-2021 01:41:51 INFO - =======================================End Test===========================================
+05-09-2021 01:41:51 INFO - ==========================================================================================
+05-09-2021 01:41:51 INFO - Starting test  positiveTests
+05-09-2021 01:41:51 INFO - ==========================================================================================
+05-09-2021 01:41:52 INFO - Random number generated to proceed is - 144
+05-09-2021 01:41:52 INFO - Factorial value obtained from UI is - The factorial of 144 is: 5.5502938327393044e+249
+05-09-2021 01:41:52 INFO - Actual factorial value of 144 is The factorial of 144 is: 5.550293832739301E249
+05-09-2021 01:41:52 INFO - Test Passed
+05-09-2021 01:41:53 INFO - Random number generated to proceed is - 81
+05-09-2021 01:41:54 INFO - Factorial value obtained from UI is - The factorial of 81 is: 5.797126020747368e+120
+05-09-2021 01:41:54 INFO - Actual factorial value of 81 is The factorial of 81 is: 5.797126020747366E120
+05-09-2021 01:41:54 INFO - Test Passed
+05-09-2021 01:41:54 INFO - Random number generated to proceed is - 54
+05-09-2021 01:41:55 INFO - Factorial value obtained from UI is - The factorial of 54 is: 2.308436973392414e+71
+05-09-2021 01:41:55 INFO - Actual factorial value of 54 is The factorial of 54 is: 2.308436973392414E71
+05-09-2021 01:41:55 INFO - Test Passed
+05-09-2021 01:41:55 INFO - =======================================End Test===========================================
+05-09-2021 01:42:16 INFO - ==========================================================================================
+05-09-2021 01:42:16 INFO - Starting test  pageValidation
+05-09-2021 01:42:16 INFO - ==========================================================================================
+05-09-2021 01:42:16 INFO - Validating elements on the page
+05-09-2021 01:42:16 INFO - Proceed with empty value
+05-09-2021 01:42:17 INFO - Proceed with space value
+05-09-2021 01:42:18 INFO - Proceed with negative number value
+05-09-2021 01:42:19 INFO - Proceed with alphabetic value
+05-09-2021 01:42:20 INFO - Proceed with alphanumeric value
+05-09-2021 01:42:20 INFO - Proceed with special character value
+05-09-2021 01:42:21 INFO - =======================================End Test===========================================
+05-09-2021 01:42:21 INFO - ==========================================================================================
+05-09-2021 01:42:21 INFO - Starting test  positiveTests
+05-09-2021 01:42:21 INFO - ==========================================================================================
+05-09-2021 01:42:22 INFO - Random number generated to proceed is - 64
+05-09-2021 01:42:23 INFO - Factorial value obtained from UI is - The factorial of 64 is: 1.2688693218588417e+89
+05-09-2021 01:42:23 INFO - Actual factorial value of 64 is The factorial of 64 is: 1.2688693218588417E89
+05-09-2021 01:42:23 INFO - Test Passed
+05-09-2021 01:42:23 INFO - Random number generated to proceed is - 181
+05-09-2021 01:42:24 INFO - Factorial value obtained from UI is - The factorial of 181 is: Infinity
+05-09-2021 01:42:24 INFO - Actual factorial value of 181 is The factorial of 181 is: Infinity
+05-09-2021 01:42:24 INFO - Test Passed
+05-09-2021 01:42:25 INFO - Random number generated to proceed is - 49
+05-09-2021 01:42:25 INFO - Factorial value obtained from UI is - The factorial of 49 is: 6.082818640342675e+62
+05-09-2021 01:42:25 INFO - Actual factorial value of 49 is The factorial of 49 is: 6.082818640342675E62
+05-09-2021 01:42:25 INFO - Test Passed
+05-09-2021 01:42:25 INFO - =======================================End Test===========================================
+05-09-2021 01:46:12 INFO - ==========================================================================================
+05-09-2021 01:46:12 INFO - Starting test  pageValidation
+05-09-2021 01:46:12 INFO - ==========================================================================================
+05-09-2021 01:46:12 INFO - Page took -3227ms to load
+05-09-2021 01:46:12 INFO - Validating elements on the page
+05-09-2021 01:46:13 INFO - Proceed with empty value
+05-09-2021 01:46:13 INFO - Proceed with space value
+05-09-2021 01:46:14 INFO - Proceed with negative number value
+05-09-2021 01:46:15 INFO - Proceed with alphabetic value
+05-09-2021 01:46:16 INFO - Proceed with alphanumeric value
+05-09-2021 01:46:17 INFO - Proceed with special character value
+05-09-2021 01:46:18 INFO - =======================================End Test===========================================
+05-09-2021 01:46:18 INFO - ==========================================================================================
+05-09-2021 01:46:18 INFO - Starting test  positiveTests
+05-09-2021 01:46:18 INFO - ==========================================================================================
+05-09-2021 01:46:18 INFO - Random number generated to proceed is - 73
+05-09-2021 01:46:19 INFO - Factorial value obtained from UI is - The factorial of 73 is: 4.4701154615126844e+105
+05-09-2021 01:46:19 INFO - Actual factorial value of 73 is The factorial of 73 is: 4.4701154615126834E105
+05-09-2021 01:46:19 INFO - Test Passed
+05-09-2021 01:46:20 INFO - Random number generated to proceed is - 192
+05-09-2021 01:46:20 INFO - Factorial value obtained from UI is - The factorial of 192 is: Infinity
+05-09-2021 01:46:20 INFO - Actual factorial value of 192 is The factorial of 192 is: Infinity
+05-09-2021 01:46:20 INFO - Test Passed
+05-09-2021 01:46:21 INFO - Random number generated to proceed is - 66
+05-09-2021 01:46:22 INFO - Factorial value obtained from UI is - The factorial of 66 is: 5.443449390774431e+92
+05-09-2021 01:46:22 INFO - Actual factorial value of 66 is The factorial of 66 is: 5.443449390774431E92
+05-09-2021 01:46:22 INFO - Test Passed
+05-09-2021 01:46:22 INFO - =======================================End Test===========================================
+05-09-2021 01:48:08 INFO - ==========================================================================================
+05-09-2021 01:48:08 INFO - Starting test  pageValidation
+05-09-2021 01:48:08 INFO - ==========================================================================================
+05-09-2021 01:48:08 INFO - Page took - 2sec to load
+05-09-2021 01:48:08 INFO - Validating elements on the page
+05-09-2021 01:48:08 INFO - Proceed with empty value
+05-09-2021 01:48:09 INFO - Proceed with space value
+05-09-2021 01:48:10 INFO - Proceed with negative number value
+05-09-2021 01:48:11 INFO - Proceed with alphabetic value
+05-09-2021 01:48:11 INFO - Proceed with alphanumeric value
+05-09-2021 01:48:12 INFO - Proceed with special character value
+05-09-2021 01:48:13 INFO - =======================================End Test===========================================
+05-09-2021 01:48:13 INFO - ==========================================================================================
+05-09-2021 01:48:13 INFO - Starting test  positiveTests
+05-09-2021 01:48:13 INFO - ==========================================================================================
+05-09-2021 01:48:14 INFO - Random number generated to proceed is - 50
+05-09-2021 01:48:15 INFO - Factorial value obtained from UI is - The factorial of 50 is: 3.0414093201713376e+64
+05-09-2021 01:48:15 INFO - Actual factorial value of 50 is The factorial of 50 is: 3.0414093201713376E64
+05-09-2021 01:48:15 INFO - Test Passed
+05-09-2021 01:48:15 INFO - Random number generated to proceed is - 87
+05-09-2021 01:48:16 INFO - Factorial value obtained from UI is - The factorial of 87 is: 2.107757298379528e+132
+05-09-2021 01:48:16 INFO - Actual factorial value of 87 is The factorial of 87 is: 2.107757298379527E132
+05-09-2021 01:48:16 INFO - Test Passed
+05-09-2021 01:48:17 INFO - Random number generated to proceed is - 169
+05-09-2021 01:48:17 INFO - Factorial value obtained from UI is - 
+05-09-2021 01:48:17 INFO - Actual factorial value of 169 is The factorial of 169 is: 4.2690680090047027E304
+05-09-2021 01:48:17 INFO - Test Passed
+05-09-2021 01:48:17 INFO - =======================================End Test===========================================
+05-09-2021 02:11:10 INFO - ==========================================================================================
+05-09-2021 02:11:10 INFO - Starting test  pageValidation
+05-09-2021 02:11:10 INFO - ==========================================================================================
+05-09-2021 02:11:10 INFO - Page took - 3sec to load
+05-09-2021 02:11:10 INFO - Validating elements on the page
+05-09-2021 02:11:10 INFO - Proceed with empty value
+05-09-2021 02:11:11 INFO - Proceed with space value
+05-09-2021 02:11:12 INFO - Proceed with negative number value
+05-09-2021 02:11:12 INFO - Proceed with alphabetic value
+05-09-2021 02:11:13 INFO - Proceed with alphanumeric value
+05-09-2021 02:11:14 INFO - Proceed with special character value
+05-09-2021 02:11:15 INFO - =======================================End Test===========================================
+05-09-2021 02:11:15 INFO - ==========================================================================================
+05-09-2021 02:11:15 INFO - Starting test  positiveTests
+05-09-2021 02:11:15 INFO - ==========================================================================================
+05-09-2021 02:11:17 INFO - Factorial value obtained from UI is - 
+05-09-2021 02:11:17 INFO - Actual factorial value of 0 is The factorial of 0 is: 1.0
+05-09-2021 02:11:17 INFO - =======================================End Test===========================================
+05-09-2021 02:12:42 INFO - ==========================================================================================
+05-09-2021 02:12:42 INFO - Starting test  pageValidation
+05-09-2021 02:12:42 INFO - ==========================================================================================
+05-09-2021 02:12:42 INFO - Page took - 2sec to load
+05-09-2021 02:12:42 INFO - Validating elements on the page
+05-09-2021 02:12:42 INFO - Proceed with empty value
+05-09-2021 02:12:43 INFO - Proceed with space value
+05-09-2021 02:12:44 INFO - Proceed with negative number value
+05-09-2021 02:12:45 INFO - Proceed with alphabetic value
+05-09-2021 02:12:46 INFO - Proceed with alphanumeric value
+05-09-2021 02:12:47 INFO - Proceed with special character value
+05-09-2021 02:12:48 INFO - =======================================End Test===========================================
+05-09-2021 02:12:48 INFO - ==========================================================================================
+05-09-2021 02:12:48 INFO - Starting test  positiveTests
+05-09-2021 02:12:48 INFO - ==========================================================================================
+05-09-2021 02:12:56 INFO - Factorial value obtained from UI is - 
+05-09-2021 02:13:00 INFO - Actual factorial value of 0 is The factorial of 0 is: 1.0
+05-09-2021 02:13:11 INFO - =======================================End Test===========================================
+05-09-2021 02:13:30 INFO - ==========================================================================================
+05-09-2021 02:13:30 INFO - Starting test  pageValidation
+05-09-2021 02:13:30 INFO - ==========================================================================================
+05-09-2021 02:13:30 INFO - Page took - 2sec to load
+05-09-2021 02:13:30 INFO - Validating elements on the page
+05-09-2021 02:13:30 INFO - Proceed with empty value
+05-09-2021 02:13:31 INFO - Proceed with space value
+05-09-2021 02:13:32 INFO - Proceed with negative number value
+05-09-2021 02:13:33 INFO - Proceed with alphabetic value
+05-09-2021 02:13:34 INFO - Proceed with alphanumeric value
+05-09-2021 02:13:35 INFO - Proceed with special character value
+05-09-2021 02:13:35 INFO - =======================================End Test===========================================
+05-09-2021 02:13:35 INFO - ==========================================================================================
+05-09-2021 02:13:35 INFO - Starting test  positiveTests
+05-09-2021 02:13:35 INFO - ==========================================================================================
+05-09-2021 02:13:37 INFO - Factorial value obtained from UI is - 
+05-09-2021 02:13:37 INFO - Actual factorial value of 0 is The factorial of 0 is: 1.8826771768889254E209
+05-09-2021 02:13:37 INFO - =======================================End Test===========================================
+05-09-2021 02:13:55 INFO - ==========================================================================================
+05-09-2021 02:13:55 INFO - Starting test  pageValidation
+05-09-2021 02:13:55 INFO - ==========================================================================================
+05-09-2021 02:13:55 INFO - Page took - 3sec to load
+05-09-2021 02:13:55 INFO - Validating elements on the page
+05-09-2021 02:13:55 INFO - Proceed with empty value
+05-09-2021 02:13:56 INFO - Proceed with space value
+05-09-2021 02:13:57 INFO - Proceed with negative number value
+05-09-2021 02:13:58 INFO - Proceed with alphabetic value
+05-09-2021 02:13:59 INFO - Proceed with alphanumeric value
+05-09-2021 02:14:00 INFO - Proceed with special character value
+05-09-2021 02:14:01 INFO - =======================================End Test===========================================
+05-09-2021 02:14:01 INFO - ==========================================================================================
+05-09-2021 02:14:01 INFO - Starting test  positiveTests
+05-09-2021 02:14:01 INFO - ==========================================================================================
+05-09-2021 02:14:07 INFO - Factorial value obtained from UI is - 
+05-09-2021 02:14:08 INFO - Actual factorial value of 0 is The factorial of 0 is: 1.5511187532873822E66
+05-09-2021 02:14:48 INFO - =======================================End Test===========================================
+05-09-2021 02:16:57 INFO - ==========================================================================================
+05-09-2021 02:16:57 INFO - Starting test  pageValidation
+05-09-2021 02:16:57 INFO - ==========================================================================================
+05-09-2021 02:16:57 INFO - Page took - 2sec to load
+05-09-2021 02:16:57 INFO - Validating elements on the page
+05-09-2021 02:16:57 INFO - Proceed with empty, space, alphabetic, alphanumeric, and special character value
+05-09-2021 02:17:02 INFO - =======================================End Test===========================================
+05-09-2021 02:17:02 INFO - ==========================================================================================
+05-09-2021 02:17:02 INFO - Starting test  positiveTests
+05-09-2021 02:17:02 INFO - ==========================================================================================
+05-09-2021 02:17:03 INFO - Factorial value obtained from UI is - The factorial of 90 is: 1.4857159644817615e+138
+05-09-2021 02:17:03 INFO - Actual factorial value of 0 is The factorial of 90 is: 1.4857159644817607E138
+05-09-2021 02:17:03 INFO - =======================================End Test===========================================
+05-09-2021 02:20:32 INFO - ==========================================================================================
+05-09-2021 02:20:32 INFO - Starting test  pageValidation
+05-09-2021 02:20:32 INFO - ==========================================================================================
+05-09-2021 02:20:32 INFO - Page took - 2sec to load
+05-09-2021 02:20:32 INFO - Validating elements on the page
+05-09-2021 02:20:32 INFO - Proceed with empty, space, alphabetic, alphanumeric, and special character value
+05-09-2021 02:20:37 INFO - =======================================End Test===========================================
+05-09-2021 02:20:37 INFO - ==========================================================================================
+05-09-2021 02:20:37 INFO - Starting test  positiveTests
+05-09-2021 02:20:37 INFO - ==========================================================================================
+05-09-2021 02:20:38 INFO - Factorial value obtained from UI is - The factorial of 72 is: 6.1234458376886085e+103
+05-09-2021 02:20:38 INFO - Actual factorial value of 0 is The factorial of 72 is: 6.123445837688608E103
+05-09-2021 02:20:38 INFO - =======================================End Test===========================================
+05-09-2021 02:21:48 INFO - ==========================================================================================
+05-09-2021 02:21:48 INFO - Starting test  pageValidation
+05-09-2021 02:21:48 INFO - ==========================================================================================
+05-09-2021 02:21:48 INFO - Page took - 3sec to load
+05-09-2021 02:21:48 INFO - Validating elements on the page
+05-09-2021 02:21:48 INFO - Proceed with empty, space, alphabetic, alphanumeric, and special character value
+05-09-2021 02:21:53 INFO - =======================================End Test===========================================
+05-09-2021 02:21:53 INFO - ==========================================================================================
+05-09-2021 02:21:53 INFO - Starting test  positiveTests
+05-09-2021 02:21:53 INFO - ==========================================================================================
+05-09-2021 02:21:58 INFO - Factorial value obtained from UI is - The factorial of 165 is: 5.423910666131589e+295
+05-09-2021 02:21:59 INFO - Actual factorial value of 165 is: The factorial of 165 is: 5.423910666131586E295
+05-09-2021 02:22:25 INFO - =======================================End Test===========================================
+05-09-2021 02:23:21 INFO - ==========================================================================================
+05-09-2021 02:23:21 INFO - Starting test  pageValidation
+05-09-2021 02:23:21 INFO - ==========================================================================================
+05-09-2021 02:23:21 INFO - Page took - 2sec to load
+05-09-2021 02:23:21 INFO - Validating elements on the page
+05-09-2021 02:23:21 INFO - Proceed with empty, space, alphabetic, alphanumeric, and special character value
+05-09-2021 02:23:26 INFO - =======================================End Test===========================================
+05-09-2021 02:23:26 INFO - ==========================================================================================
+05-09-2021 02:23:26 INFO - Starting test  positiveTests
+05-09-2021 02:23:26 INFO - ==========================================================================================
+05-09-2021 02:23:28 INFO - Factorial value obtained from UI is - The factorial of 55 is: 1.2696403353658276e+73
+05-09-2021 02:23:28 INFO - Actual factorial value of 55 is: The factorial of 55 is: 1.2696403353658276E73
+05-09-2021 02:23:28 INFO - =======================================End Test===========================================
+05-09-2021 02:24:24 INFO - ==========================================================================================
+05-09-2021 02:24:24 INFO - Starting test  pageValidation
+05-09-2021 02:24:24 INFO - ==========================================================================================
+05-09-2021 02:24:24 INFO - Page took - 2sec to load
+05-09-2021 02:24:24 INFO - Validating elements on the page
+05-09-2021 02:24:24 INFO - Proceed with empty, space, alphabetic, alphanumeric, and special character value
+05-09-2021 02:24:30 INFO - =======================================End Test===========================================
+05-09-2021 02:24:30 INFO - ==========================================================================================
+05-09-2021 02:24:30 INFO - Starting test  positiveTests
+05-09-2021 02:24:30 INFO - ==========================================================================================
+05-09-2021 02:24:34 INFO - Factorial value obtained from UI is - The factorial of 160 is: 4.7147236359920616e+284
+05-09-2021 02:24:35 INFO - Actual factorial value of 160 is: The factorial of 160 is: 4.714723635992059E284
+05-09-2021 13:07:02 INFO - ==========================================================================================
+05-09-2021 13:07:02 INFO - Starting test  pageValidation
+05-09-2021 13:07:02 INFO - ==========================================================================================
+05-09-2021 13:07:02 INFO - Page took - 4sec to load
+05-09-2021 13:07:02 INFO - Validating elements on the page
+05-09-2021 13:07:02 INFO - Proceed with empty, space, alphabetic, alphanumeric, and special character value
+05-09-2021 13:07:07 INFO - =======================================End Test===========================================
+05-09-2021 13:07:07 INFO - ==========================================================================================
+05-09-2021 13:07:07 INFO - Starting test  positiveTests
+05-09-2021 13:07:07 INFO - ==========================================================================================
+05-09-2021 13:07:08 INFO - Factorial value obtained from UI is - The factorial of 139 is: 9.615723196941089e+238
+05-09-2021 13:07:08 INFO - Actual factorial value of 139 is: The factorial of 139 is: 9.615723196941086E238
+05-09-2021 13:07:08 INFO - Test Passed
+05-09-2021 13:07:09 INFO - Factorial value obtained from UI is - The factorial of 44 is: 2.658271574788449e+54
+05-09-2021 13:07:09 INFO - Actual factorial value of 44 is: The factorial of 44 is: 2.6582715747884485E54
+05-09-2021 13:07:09 INFO - Test Passed
+05-09-2021 13:07:11 INFO - Factorial value obtained from UI is - The factorial of 126 is: 2.372173242880047e+211
+05-09-2021 13:07:11 INFO - Actual factorial value of 126 is: The factorial of 126 is: 2.372173242880046E211
+05-09-2021 13:07:11 INFO - Test Passed
+05-09-2021 13:07:11 INFO - =======================================End Test===========================================
+05-09-2021 13:29:15 INFO - ==========================================================================================
+05-09-2021 13:29:15 INFO - Starting test  negativeTests
+05-09-2021 13:29:15 INFO - ==========================================================================================
+05-09-2021 13:29:15 INFO - Try with input number as 0
+05-09-2021 13:29:17 INFO - Factorial value obtained from UI is - The factorial of 0 is: 1
+05-09-2021 13:29:17 INFO - Actual factorial value of 0 is: The factorial of 0 is: 1.0
+05-09-2021 13:29:17 INFO - Try with input number as 1
+05-09-2021 13:29:18 INFO - Factorial value obtained from UI is - The factorial of 1 is: 1
+05-09-2021 13:29:18 INFO - Actual factorial value of 1 is: The factorial of 1 is: 1.0
+05-09-2021 13:29:18 INFO - Try with input number as 200
+05-09-2021 13:29:19 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 13:29:19 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 13:29:19 INFO - =======================================End Test===========================================
+05-09-2021 13:29:19 INFO - ==========================================================================================
+05-09-2021 13:29:19 INFO - Starting test  pageValidation
+05-09-2021 13:29:19 INFO - ==========================================================================================
+05-09-2021 13:29:19 INFO - Page took - 0sec to load
+05-09-2021 13:29:19 INFO - Validating elements on the page
+05-09-2021 13:29:19 INFO - Proceed with empty, space, alphabetic, alphanumeric, and special character value
+05-09-2021 13:29:24 INFO - =======================================End Test===========================================
+05-09-2021 13:29:24 INFO - ==========================================================================================
+05-09-2021 13:29:24 INFO - Starting test  positiveTests
+05-09-2021 13:29:24 INFO - ==========================================================================================
+05-09-2021 13:29:26 INFO - Factorial value obtained from UI is - The factorial of 40 is: 8.159152832478977e+47
+05-09-2021 13:29:26 INFO - Actual factorial value of 40 is: The factorial of 40 is: 8.159152832478977E47
+05-09-2021 13:29:26 INFO - Test Passed
+05-09-2021 13:29:27 INFO - Factorial value obtained from UI is - The factorial of 59 is: 1.3868311854568984e+80
+05-09-2021 13:29:27 INFO - Actual factorial value of 59 is: The factorial of 59 is: 1.3868311854568986E80
+05-09-2021 13:29:27 INFO - Test Passed
+05-09-2021 13:29:28 INFO - Factorial value obtained from UI is - The factorial of 146 is: 1.1749972043909107e+254
+05-09-2021 13:29:28 INFO - Actual factorial value of 146 is: The factorial of 146 is: 1.17499720439091E254
+05-09-2021 13:29:28 INFO - Test Passed
+05-09-2021 13:29:28 INFO - =======================================End Test===========================================
+05-09-2021 13:32:43 INFO - ==========================================================================================
+05-09-2021 13:32:43 INFO - Starting test  negativeTests
+05-09-2021 13:32:43 INFO - ==========================================================================================
+05-09-2021 13:32:43 INFO - Try with input number as 0
+05-09-2021 13:32:44 INFO - Factorial value obtained from UI is - The factorial of 0 is: 1
+05-09-2021 13:32:44 INFO - Actual factorial value of 0 is: The factorial of 0 is: 1.0
+05-09-2021 13:32:44 INFO - Try with input number as 1
+05-09-2021 13:32:46 INFO - Factorial value obtained from UI is - The factorial of 1 is: 1
+05-09-2021 13:32:46 INFO - Actual factorial value of 1 is: The factorial of 1 is: 1.0
+05-09-2021 13:32:46 INFO - Try with input number as 200
+05-09-2021 13:32:47 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 13:32:47 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 13:32:47 INFO - Try with input number as 200
+05-09-2021 13:32:48 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 13:32:48 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 13:32:48 INFO - =======================================End Test===========================================
+05-09-2021 13:32:48 INFO - ==========================================================================================
+05-09-2021 13:32:48 INFO - Starting test  pageValidation
+05-09-2021 13:32:48 INFO - ==========================================================================================
+05-09-2021 13:32:48 INFO - Page took - 0sec to load
+05-09-2021 13:32:48 INFO - Validating elements on the page
+05-09-2021 13:32:48 INFO - Proceed with empty, space, alphabetic, alphanumeric, and special character value
+05-09-2021 13:32:54 INFO - =======================================End Test===========================================
+05-09-2021 13:32:54 INFO - ==========================================================================================
+05-09-2021 13:32:54 INFO - Starting test  positiveTests
+05-09-2021 13:32:54 INFO - ==========================================================================================
+05-09-2021 13:32:55 INFO - Factorial value obtained from UI is - The factorial of 184 is: Infinity
+05-09-2021 13:32:55 INFO - Actual factorial value of 184 is: The factorial of 184 is: Infinity
+05-09-2021 13:32:55 INFO - Test Passed
+05-09-2021 13:32:57 INFO - Factorial value obtained from UI is - The factorial of 79 is: 8.946182130782976e+116
+05-09-2021 13:32:57 INFO - Actual factorial value of 79 is: The factorial of 79 is: 8.946182130782973E116
+05-09-2021 13:32:57 INFO - Test Passed
+05-09-2021 13:32:58 INFO - Factorial value obtained from UI is - The factorial of 4 is: 24
+05-09-2021 13:32:58 INFO - Actual factorial value of 4 is: The factorial of 4 is: 24.0
+05-09-2021 13:32:58 INFO - Test Passed
+05-09-2021 13:32:58 INFO - =======================================End Test===========================================
+05-09-2021 13:34:31 INFO - ==========================================================================================
+05-09-2021 13:34:31 INFO - Starting test  pageValidation
+05-09-2021 13:34:31 INFO - ==========================================================================================
+05-09-2021 13:34:31 INFO - Page took - 3sec to load
+05-09-2021 13:34:31 INFO - Validating elements on the page
+05-09-2021 13:34:31 INFO - Proceed with empty, space, alphabetic, alphanumeric, and special character value
+05-09-2021 13:34:36 INFO - =======================================End Test===========================================
+05-09-2021 13:34:36 INFO - ==========================================================================================
+05-09-2021 13:34:36 INFO - Starting test  positiveTests
+05-09-2021 13:34:36 INFO - ==========================================================================================
+05-09-2021 13:34:37 INFO - Factorial value obtained from UI is - The factorial of 42 is: 1.40500611775288e+51
+05-09-2021 13:34:37 INFO - Actual factorial value of 42 is: The factorial of 42 is: 1.4050061177528798E51
+05-09-2021 13:34:37 INFO - Test Passed
+05-09-2021 13:34:38 INFO - Factorial value obtained from UI is - The factorial of 21 is: 51090942171709440000
+05-09-2021 13:34:38 INFO - Actual factorial value of 21 is: The factorial of 21 is: 5.109094217170944E19
+05-09-2021 13:34:38 INFO - Test Passed
+05-09-2021 13:34:40 INFO - Factorial value obtained from UI is - The factorial of 97 is: 9.619275968248212e+151
+05-09-2021 13:34:40 INFO - Actual factorial value of 97 is: The factorial of 97 is: 9.619275968248206E151
+05-09-2021 13:34:40 INFO - Test Passed
+05-09-2021 13:34:40 INFO - =======================================End Test===========================================
+05-09-2021 13:34:40 INFO - ==========================================================================================
+05-09-2021 13:34:40 INFO - Starting test  negativeTests
+05-09-2021 13:34:40 INFO - ==========================================================================================
+05-09-2021 13:34:40 INFO - Try with input number as 0
+05-09-2021 13:34:41 INFO - Factorial value obtained from UI is - The factorial of 0 is: 1
+05-09-2021 13:34:41 INFO - Actual factorial value of 0 is: The factorial of 0 is: 1.0
+05-09-2021 13:34:41 INFO - Try with input number as 1
+05-09-2021 13:34:42 INFO - Factorial value obtained from UI is - The factorial of 1 is: 1
+05-09-2021 13:34:42 INFO - Actual factorial value of 1 is: The factorial of 1 is: 1.0
+05-09-2021 13:34:42 INFO - Try with input number as 200
+05-09-2021 13:34:43 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 13:34:43 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 13:34:43 INFO - Try with input number as 200
+05-09-2021 13:34:45 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 13:34:45 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 13:34:45 INFO - =======================================End Test===========================================
+05-09-2021 13:41:37 INFO - ==========================================================================================
+05-09-2021 13:41:37 INFO - Starting test  pageValidation
+05-09-2021 13:41:37 INFO - ==========================================================================================
+05-09-2021 13:41:37 INFO - Page took - 2sec to load
+05-09-2021 13:41:37 INFO - Validating elements on the page
+05-09-2021 13:41:37 INFO - Proceed with empty, space, alphabetic, alphanumeric, and special character value
+05-09-2021 13:41:42 INFO - =======================================End Test===========================================
+05-09-2021 13:41:42 INFO - ==========================================================================================
+05-09-2021 13:41:42 INFO - Starting test  positiveTests
+05-09-2021 13:41:42 INFO - ==========================================================================================
+05-09-2021 13:41:44 INFO - Factorial value obtained from UI is - The factorial of 72 is: 6.1234458376886085e+103
+05-09-2021 13:41:44 INFO - Actual factorial value of 72 is: The factorial of 72 is: 6.123445837688608E103
+05-09-2021 13:41:44 INFO - Test Passed
+05-09-2021 13:41:45 INFO - Factorial value obtained from UI is - The factorial of 177 is: Infinity
+05-09-2021 13:41:45 INFO - Actual factorial value of 177 is: The factorial of 177 is: Infinity
+05-09-2021 13:41:45 INFO - Test Passed
+05-09-2021 13:41:46 INFO - Factorial value obtained from UI is - The factorial of 111 is: 1.7629525510902446e+180
+05-09-2021 13:41:46 INFO - Actual factorial value of 111 is: The factorial of 111 is: 1.7629525510902437E180
+05-09-2021 13:41:46 INFO - Test Passed
+05-09-2021 13:41:46 INFO - =======================================End Test===========================================
+05-09-2021 13:41:46 INFO - ==========================================================================================
+05-09-2021 13:41:46 INFO - Starting test  negativeTests
+05-09-2021 13:41:46 INFO - ==========================================================================================
+05-09-2021 13:41:46 INFO - Try with input number as 0
+05-09-2021 13:41:48 INFO - Factorial value obtained from UI is - The factorial of 0 is: 1
+05-09-2021 13:41:48 INFO - Actual factorial value of 0 is: The factorial of 0 is: 1.0
+05-09-2021 13:41:48 INFO - Try with input number as 1
+05-09-2021 13:41:49 INFO - Factorial value obtained from UI is - The factorial of 1 is: 1
+05-09-2021 13:41:49 INFO - Actual factorial value of 1 is: The factorial of 1 is: 1.0
+05-09-2021 13:41:49 INFO - Try with input number as 200
+05-09-2021 13:41:50 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 13:41:50 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 13:41:50 INFO - Try with input number as 200
+05-09-2021 13:41:52 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 13:41:52 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 13:41:52 INFO - =======================================End Test===========================================
+05-09-2021 13:42:47 INFO - ==========================================================================================
+05-09-2021 13:42:47 INFO - Starting test  pageValidation
+05-09-2021 13:42:47 INFO - ==========================================================================================
+05-09-2021 13:42:47 INFO - Page took - 2sec to load
+05-09-2021 13:42:47 INFO - Validating elements on the page
+05-09-2021 13:42:48 INFO - Proceed with empty, space, alphabetic, alphanumeric, and special character value
+05-09-2021 13:42:53 INFO - =======================================End Test===========================================
+05-09-2021 13:42:53 INFO - ==========================================================================================
+05-09-2021 13:42:53 INFO - Starting test  positiveTests
+05-09-2021 13:42:53 INFO - ==========================================================================================
+05-09-2021 13:42:54 INFO - Factorial value obtained from UI is - The factorial of 42 is: 1.40500611775288e+51
+05-09-2021 13:42:54 INFO - Actual factorial value of 42 is: The factorial of 42 is: 1.4050061177528798E51
+05-09-2021 13:42:54 INFO - Test Passed
+05-09-2021 13:42:55 INFO - Factorial value obtained from UI is - The factorial of 13 is: 6227020800
+05-09-2021 13:42:55 INFO - Actual factorial value of 13 is: The factorial of 13 is: 6.2270208E9
+05-09-2021 13:42:55 INFO - Test Passed
+05-09-2021 13:42:57 INFO - Factorial value obtained from UI is - The factorial of 30 is: 2.6525285981219107e+32
+05-09-2021 13:42:57 INFO - Actual factorial value of 30 is: The factorial of 30 is: 2.6525285981219103E32
+05-09-2021 13:42:57 INFO - Test Passed
+05-09-2021 13:42:57 INFO - =======================================End Test===========================================
+05-09-2021 13:42:57 INFO - ==========================================================================================
+05-09-2021 13:42:57 INFO - Starting test  negativeTests
+05-09-2021 13:42:57 INFO - ==========================================================================================
+05-09-2021 13:42:57 INFO - Try with input number as 0
+05-09-2021 13:42:58 INFO - Factorial value obtained from UI is - The factorial of 0 is: 1
+05-09-2021 13:42:58 INFO - Actual factorial value of 0 is: The factorial of 0 is: 1.0
+05-09-2021 13:42:58 INFO - Try with input number as 1
+05-09-2021 13:42:59 INFO - Factorial value obtained from UI is - The factorial of 1 is: 1
+05-09-2021 13:42:59 INFO - Actual factorial value of 1 is: The factorial of 1 is: 1.0
+05-09-2021 13:42:59 INFO - Try with input number as 200
+05-09-2021 13:43:01 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 13:43:01 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 13:43:01 INFO - Try with input number as 200
+05-09-2021 13:43:02 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 13:43:02 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 13:43:02 INFO - =======================================End Test===========================================
+05-09-2021 13:45:19 INFO - ==========================================================================================
+05-09-2021 13:45:19 INFO - Starting test  pageValidation
+05-09-2021 13:45:19 INFO - ==========================================================================================
+05-09-2021 13:45:19 INFO - Page took - 2sec to load
+05-09-2021 13:45:19 INFO - Validating elements on the page
+05-09-2021 13:45:19 INFO - Proceed with empty, space, alphabetic, alphanumeric, and special character value
+05-09-2021 13:45:24 INFO - =======================================End Test===========================================
+05-09-2021 13:45:24 INFO - ==========================================================================================
+05-09-2021 13:45:24 INFO - Starting test  positiveTests
+05-09-2021 13:45:24 INFO - ==========================================================================================
+05-09-2021 13:45:27 INFO - Factorial value obtained from UI is - The factorial of 58 is: 2.3505613312828785e+78
+05-09-2021 13:45:27 INFO - Actual factorial value of 58 is: The factorial of 58 is: 2.350561331282879E78
+05-09-2021 13:45:27 INFO - Test Passed
+05-09-2021 13:45:28 INFO - Factorial value obtained from UI is - The factorial of 80 is: 7.156945704626381e+118
+05-09-2021 13:45:28 INFO - Actual factorial value of 80 is: The factorial of 80 is: 7.156945704626378E118
+05-09-2021 13:45:28 INFO - Test Passed
+05-09-2021 13:45:29 INFO - Factorial value obtained from UI is - The factorial of 141 is: 1.898143759076171e+243
+05-09-2021 13:45:29 INFO - Actual factorial value of 141 is: The factorial of 141 is: 1.89814375907617E243
+05-09-2021 13:45:29 INFO - Test Passed
+05-09-2021 13:45:29 INFO - =======================================End Test===========================================
+05-09-2021 13:45:29 INFO - ==========================================================================================
+05-09-2021 13:45:29 INFO - Starting test  negativeTests
+05-09-2021 13:45:29 INFO - ==========================================================================================
+05-09-2021 13:45:29 INFO - Try with input number as 0
+05-09-2021 13:45:31 INFO - Factorial value obtained from UI is - The factorial of 0 is: 1
+05-09-2021 13:45:31 INFO - Actual factorial value of 0 is: The factorial of 0 is: 1.0
+05-09-2021 13:45:31 INFO - Try with input number as 1
+05-09-2021 13:45:32 INFO - Factorial value obtained from UI is - The factorial of 1 is: 1
+05-09-2021 13:45:32 INFO - Actual factorial value of 1 is: The factorial of 1 is: 1.0
+05-09-2021 13:45:32 INFO - Try with input number as 200
+05-09-2021 13:45:33 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 13:45:33 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 13:45:33 INFO - Try with input number as 200
+05-09-2021 13:45:35 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 13:45:35 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 13:45:35 INFO - =======================================End Test===========================================
+05-09-2021 13:46:23 INFO - ==========================================================================================
+05-09-2021 13:46:23 INFO - Starting test  pageValidation
+05-09-2021 13:46:23 INFO - ==========================================================================================
+05-09-2021 13:46:23 INFO - Page took - 3sec to load
+05-09-2021 13:46:23 INFO - Validating elements on the page
+05-09-2021 13:46:23 INFO - Proceed with empty, space, alphabetic, alphanumeric, and special character value
+05-09-2021 13:46:28 INFO - =======================================End Test===========================================
+05-09-2021 13:46:28 INFO - ==========================================================================================
+05-09-2021 13:46:28 INFO - Starting test  positiveTests
+05-09-2021 13:46:28 INFO - ==========================================================================================
+05-09-2021 13:46:30 INFO - Factorial value obtained from UI is - The factorial of 35 is: 1.0333147966386145e+40
+05-09-2021 13:46:30 INFO - Actual factorial value of 35 is: The factorial of 35 is: 1.0333147966386144E40
+05-09-2021 13:46:30 INFO - Test Passed
+05-09-2021 13:46:31 INFO - Factorial value obtained from UI is - The factorial of 157 is: 1.1729568794264145e+278
+05-09-2021 13:46:31 INFO - Actual factorial value of 157 is: The factorial of 157 is: 1.1729568794264138E278
+05-09-2021 13:46:31 INFO - Test Passed
+05-09-2021 13:46:32 INFO - Factorial value obtained from UI is - The factorial of 161 is: 7.590705053947219e+286
+05-09-2021 13:46:32 INFO - Actual factorial value of 161 is: The factorial of 161 is: 7.590705053947215E286
+05-09-2021 13:46:32 INFO - Test Passed
+05-09-2021 13:46:32 INFO - =======================================End Test===========================================
+05-09-2021 13:46:32 INFO - ==========================================================================================
+05-09-2021 13:46:32 INFO - Starting test  negativeTests
+05-09-2021 13:46:32 INFO - ==========================================================================================
+05-09-2021 13:46:32 INFO - Try with input number as 0
+05-09-2021 13:46:33 INFO - Factorial value obtained from UI is - The factorial of 0 is: 1
+05-09-2021 13:46:33 INFO - Actual factorial value of 0 is: The factorial of 0 is: 1.0
+05-09-2021 13:46:33 INFO - Try with input number as 1
+05-09-2021 13:46:35 INFO - Factorial value obtained from UI is - The factorial of 1 is: 1
+05-09-2021 13:46:35 INFO - Actual factorial value of 1 is: The factorial of 1 is: 1.0
+05-09-2021 13:46:35 INFO - Try with input number as 200
+05-09-2021 13:46:36 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 13:46:36 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 13:46:36 INFO - Try with input number as 170
+05-09-2021 13:46:37 INFO - Factorial value obtained from UI is - The factorial of 170 is: 7.257415615307999e+306
+05-09-2021 13:46:37 INFO - Actual factorial value of 170 is: The factorial of 170 is: 7.257415615307994E306
+05-09-2021 13:46:37 INFO - =======================================End Test===========================================
+05-09-2021 16:32:23 INFO - ==========================================================================================
+05-09-2021 16:32:23 INFO - Starting test  pageValidation
+05-09-2021 16:32:23 INFO - ==========================================================================================
+05-09-2021 16:32:23 INFO - Page took - 5sec to load
+05-09-2021 16:32:23 INFO - Validating elements on the page
+05-09-2021 16:32:23 INFO - Test with empty value
+05-09-2021 16:32:24 INFO - Test with space value
+05-09-2021 16:32:25 INFO - Test with negative number value
+05-09-2021 16:32:25 INFO - Test with alphabetic value
+05-09-2021 16:32:26 INFO - Test with alphanumeric value
+05-09-2021 16:32:27 INFO - Test with special character value
+05-09-2021 16:32:28 INFO - Test Passed
+05-09-2021 16:32:28 INFO - TEST_PASSED
+05-09-2021 16:32:28 INFO - =======================================End Test===========================================
+05-09-2021 16:32:28 INFO - ==========================================================================================
+05-09-2021 16:32:28 INFO - Starting test  positiveTests
+05-09-2021 16:32:28 INFO - ==========================================================================================
+05-09-2021 16:32:29 INFO - Factorial value obtained from UI is - The factorial of 106 is: 1.1462805637347084e+170
+05-09-2021 16:32:29 INFO - Actual factorial value of 106 is: The factorial of 106 is: 1.1462805637347078E170
+05-09-2021 16:32:29 INFO - TEST_PASSED
+05-09-2021 16:32:31 INFO - Factorial value obtained from UI is - The factorial of 10 is: 3628800
+05-09-2021 16:32:31 INFO - Actual factorial value of 10 is: The factorial of 10 is: 3628800.0
+05-09-2021 16:32:31 INFO - TEST_PASSED
+05-09-2021 16:32:32 INFO - Factorial value obtained from UI is - The factorial of 145 is: 8.047926057471992e+251
+05-09-2021 16:32:32 INFO - Actual factorial value of 145 is: The factorial of 145 is: 8.047926057471987E251
+05-09-2021 16:32:32 INFO - TEST_PASSED
+05-09-2021 16:32:32 INFO - =======================================End Test===========================================
+05-09-2021 16:32:32 INFO - ==========================================================================================
+05-09-2021 16:32:32 INFO - Starting test  negativeTests
+05-09-2021 16:32:32 INFO - ==========================================================================================
+05-09-2021 16:32:32 INFO - Try with input number as 0
+05-09-2021 16:32:33 INFO - Factorial value obtained from UI is - The factorial of 0 is: 1
+05-09-2021 16:32:33 INFO - Actual factorial value of 0 is: The factorial of 0 is: 1.0
+05-09-2021 16:32:33 INFO - Try with input number as 1
+05-09-2021 16:32:34 INFO - Factorial value obtained from UI is - The factorial of 1 is: 1
+05-09-2021 16:32:34 INFO - Actual factorial value of 1 is: The factorial of 1 is: 1.0
+05-09-2021 16:32:34 INFO - Try with input number as 200
+05-09-2021 16:32:36 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 16:32:36 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 16:32:36 INFO - Try with input number as 170
+05-09-2021 16:32:37 INFO - Factorial value obtained from UI is - The factorial of 170 is: 7.257415615307999e+306
+05-09-2021 16:32:37 INFO - Actual factorial value of 170 is: The factorial of 170 is: 7.257415615307994E306
+05-09-2021 16:32:37 INFO - TEST_PASSED
+05-09-2021 16:32:37 INFO - =======================================End Test===========================================
+05-09-2021 16:33:30 INFO - ==========================================================================================
+05-09-2021 16:33:30 INFO - Starting test  pageValidation
+05-09-2021 16:33:30 INFO - ==========================================================================================
+05-09-2021 16:33:30 INFO - Page took - 2sec to load
+05-09-2021 16:33:30 INFO - Validating elements on the page
+05-09-2021 16:33:30 INFO - Test with empty value
+05-09-2021 16:33:31 INFO - Test with space value
+05-09-2021 16:33:32 INFO - Test with negative number value
+05-09-2021 16:33:33 INFO - Test with alphabetic value
+05-09-2021 16:33:34 INFO - Test with alphanumeric value
+05-09-2021 16:33:35 INFO - Test with special character value
+05-09-2021 16:33:35 INFO - Test Passed
+05-09-2021 16:33:35 INFO - TEST_PASSED
+05-09-2021 16:33:35 INFO - =======================================End Test===========================================
+05-09-2021 16:33:35 INFO - ==========================================================================================
+05-09-2021 16:33:35 INFO - Starting test  positiveTests
+05-09-2021 16:33:35 INFO - ==========================================================================================
+05-09-2021 16:33:37 INFO - Factorial value obtained from UI is - The factorial of 56 is: 7.109985878048635e+74
+05-09-2021 16:33:37 INFO - Actual factorial value of 56 is: The factorial of 56 is: 7.109985878048635E74
+05-09-2021 16:33:37 INFO - TEST_PASSED
+05-09-2021 16:33:38 INFO - Factorial value obtained from UI is - The factorial of 1 is: 1
+05-09-2021 16:33:38 INFO - Actual factorial value of 1 is: The factorial of 1 is: 1.0
+05-09-2021 16:33:38 INFO - TEST_PASSED
+05-09-2021 16:33:39 INFO - Factorial value obtained from UI is - The factorial of 126 is: 2.372173242880047e+211
+05-09-2021 16:33:39 INFO - Actual factorial value of 126 is: The factorial of 126 is: 2.372173242880046E211
+05-09-2021 16:33:39 INFO - TEST_PASSED
+05-09-2021 16:33:39 INFO - =======================================End Test===========================================
+05-09-2021 16:33:39 INFO - ==========================================================================================
+05-09-2021 16:33:39 INFO - Starting test  negativeTests
+05-09-2021 16:33:39 INFO - ==========================================================================================
+05-09-2021 16:33:39 INFO - Try with input number as 0
+05-09-2021 16:33:41 INFO - Factorial value obtained from UI is - The factorial of 0 is: 1
+05-09-2021 16:33:41 INFO - Actual factorial value of 0 is: The factorial of 0 is: 1.0
+05-09-2021 16:33:41 INFO - Try with input number as 1
+05-09-2021 16:33:42 INFO - Factorial value obtained from UI is - The factorial of 1 is: 1
+05-09-2021 16:33:42 INFO - Actual factorial value of 1 is: The factorial of 1 is: 1.0
+05-09-2021 16:33:42 INFO - Try with input number as 200
+05-09-2021 16:33:43 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 16:33:43 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 16:33:43 INFO - Try with input number as 170
+05-09-2021 16:33:44 INFO - Factorial value obtained from UI is - The factorial of 170 is: 7.257415615307999e+306
+05-09-2021 16:33:44 INFO - Actual factorial value of 170 is: The factorial of 170 is: 7.257415615307994E306
+05-09-2021 16:33:44 INFO - TEST_PASSED
+05-09-2021 16:33:44 INFO - =======================================End Test===========================================
+05-09-2021 16:37:55 INFO - ==========================================================================================
+05-09-2021 16:37:55 INFO - Starting test  pageValidation
+05-09-2021 16:37:55 INFO - ==========================================================================================
+05-09-2021 16:37:55 INFO - Page took - 3sec to load
+05-09-2021 16:37:55 INFO - Validating elements on the page
+05-09-2021 16:37:55 INFO - Test with empty value
+05-09-2021 16:37:56 INFO - Test with space value
+05-09-2021 16:37:57 INFO - Test with negative number value
+05-09-2021 16:37:57 INFO - Test with alphabetic value
+05-09-2021 16:37:58 INFO - Test with alphanumeric value
+05-09-2021 16:37:59 INFO - Test with special character value
+05-09-2021 16:38:00 INFO - Test Passed
+05-09-2021 16:38:00 INFO - TEST_PASSED
+05-09-2021 16:38:00 INFO - =======================================End Test===========================================
+05-09-2021 16:38:00 INFO - ==========================================================================================
+05-09-2021 16:38:00 INFO - Starting test  positiveTests
+05-09-2021 16:38:00 INFO - ==========================================================================================
+05-09-2021 16:38:01 INFO - Factorial value obtained from UI is - The factorial of 90 is: 1.4857159644817615e+138
+05-09-2021 16:38:01 INFO - Actual factorial value of 90 is: The factorial of 90 is: 1.4857159644817607E138
+05-09-2021 16:38:01 INFO - TEST_PASSED
+05-09-2021 16:38:03 INFO - Factorial value obtained from UI is - The factorial of 34 is: 2.9523279903960416e+38
+05-09-2021 16:38:03 INFO - Actual factorial value of 34 is: The factorial of 34 is: 2.9523279903960412E38
+05-09-2021 16:38:03 INFO - TEST_PASSED
+05-09-2021 16:38:04 INFO - Factorial value obtained from UI is - The factorial of 46 is: 5.502622159812089e+57
+05-09-2021 16:38:04 INFO - Actual factorial value of 46 is: The factorial of 46 is: 5.5026221598120885E57
+05-09-2021 16:38:04 INFO - TEST_PASSED
+05-09-2021 16:38:04 INFO - =======================================End Test===========================================
+05-09-2021 16:38:04 INFO - ==========================================================================================
+05-09-2021 16:38:04 INFO - Starting test  negativeTests
+05-09-2021 16:38:04 INFO - ==========================================================================================
+05-09-2021 16:38:04 INFO - Try with input number as 0
+05-09-2021 16:38:05 INFO - Factorial value obtained from UI is - The factorial of 0 is: 1
+05-09-2021 16:38:05 INFO - Actual factorial value of 0 is: The factorial of 0 is: 1.0
+05-09-2021 16:38:05 INFO - Try with input number as 1
+05-09-2021 16:38:07 INFO - Factorial value obtained from UI is - The factorial of 1 is: 1
+05-09-2021 16:38:07 INFO - Actual factorial value of 1 is: The factorial of 1 is: 1.0
+05-09-2021 16:38:07 INFO - Try with input number as 200
+05-09-2021 16:38:08 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 16:38:08 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 16:38:08 INFO - Try with input number as 170
+05-09-2021 16:38:09 INFO - Factorial value obtained from UI is - The factorial of 170 is: 7.257415615307999e+306
+05-09-2021 16:38:09 INFO - Actual factorial value of 170 is: The factorial of 170 is: 7.257415615307994E306
+05-09-2021 16:38:09 INFO - TEST_PASSED
+05-09-2021 16:38:09 INFO - =======================================End Test===========================================
+05-09-2021 16:40:07 INFO - ==========================================================================================
+05-09-2021 16:40:07 INFO - Starting test  pageValidation
+05-09-2021 16:40:07 INFO - ==========================================================================================
+05-09-2021 16:40:07 INFO - Page took - 2sec to load
+05-09-2021 16:40:07 INFO - Validating elements on the page
+05-09-2021 16:40:07 INFO - Test with empty value
+05-09-2021 16:40:07 INFO - Test with space value
+05-09-2021 16:40:09 INFO - Test with negative number value
+05-09-2021 16:40:09 INFO - Test with alphabetic value
+05-09-2021 16:40:10 INFO - Test with alphanumeric value
+05-09-2021 16:40:11 INFO - Test with special character value
+05-09-2021 16:40:12 INFO - Test Passed
+05-09-2021 16:40:12 INFO - TEST_PASSED
+05-09-2021 16:40:12 INFO - =======================================End Test===========================================
+05-09-2021 16:40:12 INFO - ==========================================================================================
+05-09-2021 16:40:12 INFO - Starting test  positiveTests
+05-09-2021 16:40:12 INFO - ==========================================================================================
+05-09-2021 16:40:13 INFO - Factorial value obtained from UI is - The factorial of 113 is: 2.2311927486598138e+184
+05-09-2021 16:40:13 INFO - Actual factorial value of 113 is: The factorial of 113 is: 2.2311927486598123E184
+05-09-2021 16:40:13 INFO - TEST_PASSED
+05-09-2021 16:40:14 INFO - Factorial value obtained from UI is - The factorial of 129 is: 4.974504222477287e+217
+05-09-2021 16:40:14 INFO - Actual factorial value of 129 is: The factorial of 129 is: 4.9745042224772855E217
+05-09-2021 16:40:14 INFO - TEST_PASSED
+05-09-2021 16:40:16 INFO - Factorial value obtained from UI is - The factorial of 184 is: Infinity
+05-09-2021 16:40:16 INFO - Actual factorial value of 184 is: The factorial of 184 is: Infinity
+05-09-2021 16:40:16 INFO - TEST_PASSED
+05-09-2021 16:40:16 INFO - =======================================End Test===========================================
+05-09-2021 16:40:16 INFO - ==========================================================================================
+05-09-2021 16:40:16 INFO - Starting test  negativeTests
+05-09-2021 16:40:16 INFO - ==========================================================================================
+05-09-2021 16:40:16 INFO - Try with input number as 0
+05-09-2021 16:40:17 INFO - Factorial value obtained from UI is - The factorial of 0 is: 1
+05-09-2021 16:40:17 INFO - Actual factorial value of 0 is: The factorial of 0 is: 1.0
+05-09-2021 16:40:17 INFO - Try with input number as 1
+05-09-2021 16:40:18 INFO - Factorial value obtained from UI is - The factorial of 1 is: 1
+05-09-2021 16:40:18 INFO - Actual factorial value of 1 is: The factorial of 1 is: 1.0
+05-09-2021 16:40:18 INFO - Try with input number as 200
+05-09-2021 16:40:20 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 16:40:20 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 16:40:20 INFO - Try with input number as 170
+05-09-2021 16:40:21 INFO - Factorial value obtained from UI is - The factorial of 170 is: 7.257415615307999e+306
+05-09-2021 16:40:21 INFO - Actual factorial value of 170 is: The factorial of 170 is: 7.257415615307994E306
+05-09-2021 16:40:21 INFO - TEST_PASSED
+05-09-2021 16:40:21 INFO - =======================================End Test===========================================
+05-09-2021 17:06:45 INFO - ==========================================================================================
+05-09-2021 17:06:45 INFO - Starting test  pageValidation
+05-09-2021 17:06:45 INFO - ==========================================================================================
+05-09-2021 17:06:45 INFO - Page took - 2sec to load
+05-09-2021 17:06:45 INFO - Validating elements on the page
+05-09-2021 17:06:45 INFO - Test with empty value
+05-09-2021 17:06:46 INFO - Test with space value
+05-09-2021 17:06:47 INFO - Test with negative number value
+05-09-2021 17:06:48 INFO - Test with alphabetic value
+05-09-2021 17:06:49 INFO - Test with alphanumeric value
+05-09-2021 17:06:50 INFO - Test with special character value
+05-09-2021 17:06:51 INFO - Test Passed
+05-09-2021 17:06:51 INFO - TEST_PASSED
+05-09-2021 17:06:51 INFO - =======================================End Test===========================================
+05-09-2021 17:06:51 INFO - ==========================================================================================
+05-09-2021 17:06:51 INFO - Starting test  positiveTests
+05-09-2021 17:06:51 INFO - ==========================================================================================
+05-09-2021 17:06:52 INFO - Factorial value obtained from UI is - The factorial of 159 is: 2.9467022724950384e+282
+05-09-2021 17:06:52 INFO - Actual factorial value of 159 is: The factorial of 159 is: 2.946702272495037E282
+05-09-2021 17:06:52 INFO - TEST_PASSED
+05-09-2021 17:06:53 INFO - Factorial value obtained from UI is - The factorial of 98 is: 9.426890448883248e+153
+05-09-2021 17:06:53 INFO - Actual factorial value of 98 is: The factorial of 98 is: 9.426890448883242E153
+05-09-2021 17:06:53 INFO - TEST_PASSED
+05-09-2021 17:06:54 INFO - Factorial value obtained from UI is - The factorial of 69 is: 1.711224524281413e+98
+05-09-2021 17:06:54 INFO - Actual factorial value of 69 is: The factorial of 69 is: 1.711224524281413E98
+05-09-2021 17:06:54 INFO - TEST_PASSED
+05-09-2021 17:06:54 INFO - =======================================End Test===========================================
+05-09-2021 17:06:54 INFO - ==========================================================================================
+05-09-2021 17:06:54 INFO - Starting test  negativeTests
+05-09-2021 17:06:54 INFO - ==========================================================================================
+05-09-2021 17:06:54 INFO - Try with input number as 0
+05-09-2021 17:06:56 INFO - Factorial value obtained from UI is - The factorial of 0 is: 1
+05-09-2021 17:06:56 INFO - Actual factorial value of 0 is: The factorial of 0 is: 1.0
+05-09-2021 17:06:56 INFO - Try with input number as 1
+05-09-2021 17:06:57 INFO - Factorial value obtained from UI is - The factorial of 1 is: 1
+05-09-2021 17:06:57 INFO - Actual factorial value of 1 is: The factorial of 1 is: 1.0
+05-09-2021 17:06:57 INFO - Try with input number as 200
+05-09-2021 17:06:58 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 17:06:58 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 17:06:58 INFO - Try with input number as 170
+05-09-2021 17:06:59 INFO - Factorial value obtained from UI is - The factorial of 170 is: 7.257415615307999e+306
+05-09-2021 17:06:59 INFO - Actual factorial value of 170 is: The factorial of 170 is: 7.257415615307994E306
+05-09-2021 17:06:59 INFO - TEST_PASSED
+05-09-2021 17:06:59 INFO - =======================================End Test===========================================
+05-09-2021 17:07:14 INFO - ==========================================================================================
+05-09-2021 17:07:14 INFO - Starting test  pageValidation
+05-09-2021 17:07:14 INFO - ==========================================================================================
+05-09-2021 17:07:14 INFO - Page took - 2sec to load
+05-09-2021 17:07:14 INFO - Validating elements on the page
+05-09-2021 17:07:14 INFO - Test with empty value
+05-09-2021 17:07:15 INFO - Test with space value
+05-09-2021 17:07:16 INFO - Test with negative number value
+05-09-2021 17:07:17 INFO - Test with alphabetic value
+05-09-2021 17:07:17 INFO - Test with alphanumeric value
+05-09-2021 17:07:18 INFO - Test with special character value
+05-09-2021 17:07:19 INFO - Test Passed
+05-09-2021 17:07:19 INFO - TEST_PASSED
+05-09-2021 17:07:19 INFO - =======================================End Test===========================================
+05-09-2021 17:07:19 INFO - ==========================================================================================
+05-09-2021 17:07:19 INFO - Starting test  positiveTests
+05-09-2021 17:07:19 INFO - ==========================================================================================
+05-09-2021 17:07:20 INFO - Factorial value obtained from UI is - The factorial of 113 is: 2.2311927486598138e+184
+05-09-2021 17:07:20 INFO - Actual factorial value of 113 is: The factorial of 113 is: 2.2311927486598123E184
+05-09-2021 17:07:20 INFO - TEST_PASSED
+05-09-2021 17:07:22 INFO - Factorial value obtained from UI is - The factorial of 111 is: 1.7629525510902446e+180
+05-09-2021 17:07:22 INFO - Actual factorial value of 111 is: The factorial of 111 is: 1.7629525510902437E180
+05-09-2021 17:07:22 INFO - TEST_PASSED
+05-09-2021 17:07:23 INFO - Factorial value obtained from UI is - The factorial of 65 is: 8.247650592082472e+90
+05-09-2021 17:07:23 INFO - Actual factorial value of 65 is: The factorial of 65 is: 8.247650592082472E90
+05-09-2021 17:07:23 INFO - TEST_PASSED
+05-09-2021 17:07:23 INFO - =======================================End Test===========================================
+05-09-2021 17:07:23 INFO - ==========================================================================================
+05-09-2021 17:07:23 INFO - Starting test  negativeTests
+05-09-2021 17:07:23 INFO - ==========================================================================================
+05-09-2021 17:07:23 INFO - Try with input number as 0
+05-09-2021 17:07:24 INFO - Factorial value obtained from UI is - The factorial of 0 is: 1
+05-09-2021 17:07:24 INFO - Actual factorial value of 0 is: The factorial of 0 is: 1.0
+05-09-2021 17:07:24 INFO - Try with input number as 1
+05-09-2021 17:07:26 INFO - Factorial value obtained from UI is - The factorial of 1 is: 1
+05-09-2021 17:07:26 INFO - Actual factorial value of 1 is: The factorial of 1 is: 1.0
+05-09-2021 17:07:26 INFO - Try with input number as 200
+05-09-2021 17:07:27 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 17:07:27 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 17:07:27 INFO - Try with input number as 170
+05-09-2021 17:07:28 INFO - Factorial value obtained from UI is - The factorial of 170 is: 7.257415615307999e+306
+05-09-2021 17:07:28 INFO - Actual factorial value of 170 is: The factorial of 170 is: 7.257415615307994E306
+05-09-2021 17:07:28 INFO - TEST_PASSED
+05-09-2021 17:07:28 INFO - =======================================End Test===========================================
+05-09-2021 17:23:18 INFO - ==========================================================================================
+05-09-2021 17:23:18 INFO - Starting test  pageValidation
+05-09-2021 17:23:18 INFO - ==========================================================================================
+05-09-2021 17:23:18 INFO - Page took - 4sec to load
+05-09-2021 17:23:18 INFO - Validating elements on the page
+05-09-2021 17:23:18 INFO - Test with empty value
+05-09-2021 17:23:19 INFO - Test with space value
+05-09-2021 17:23:20 INFO - Test with negative number value
+05-09-2021 17:23:21 INFO - Test with alphabetic value
+05-09-2021 17:23:21 INFO - Test with alphanumeric value
+05-09-2021 17:23:22 INFO - Test with special character value
+05-09-2021 17:23:23 INFO - Test Passed
+05-09-2021 17:23:23 INFO - TEST_PASSED
+05-09-2021 17:23:23 INFO - =======================================End Test===========================================
+05-09-2021 17:23:23 INFO - ==========================================================================================
+05-09-2021 17:23:23 INFO - Starting test  positiveTests
+05-09-2021 17:23:23 INFO - ==========================================================================================
+05-09-2021 17:23:24 INFO - Factorial value obtained from UI is - The factorial of 4 is: 24
+05-09-2021 17:23:24 INFO - Actual factorial value of 4 is: The factorial of 4 is: 24.0
+05-09-2021 17:23:24 INFO - TEST_PASSED
+05-09-2021 17:23:26 INFO - Factorial value obtained from UI is - The factorial of 32 is: 2.631308369336935e+35
+05-09-2021 17:23:26 INFO - Actual factorial value of 32 is: The factorial of 32 is: 2.631308369336935E35
+05-09-2021 17:23:26 INFO - TEST_PASSED
+05-09-2021 17:23:27 INFO - Factorial value obtained from UI is - The factorial of 131 is: 8.47158069087882e+221
+05-09-2021 17:23:27 INFO - Actual factorial value of 131 is: The factorial of 131 is: 8.471580690878817E221
+05-09-2021 17:23:27 INFO - TEST_PASSED
+05-09-2021 17:23:27 INFO - =======================================End Test===========================================
+05-09-2021 17:23:27 INFO - ==========================================================================================
+05-09-2021 17:23:27 INFO - Starting test  negativeTests
+05-09-2021 17:23:27 INFO - ==========================================================================================
+05-09-2021 17:23:27 INFO - Try with input number as 0
+05-09-2021 17:23:28 INFO - Factorial value obtained from UI is - The factorial of 0 is: 1
+05-09-2021 17:23:28 INFO - Actual factorial value of 0 is: The factorial of 0 is: 1.0
+05-09-2021 17:23:28 INFO - Try with input number as 1
+05-09-2021 17:23:30 INFO - Factorial value obtained from UI is - The factorial of 1 is: 1
+05-09-2021 17:23:30 INFO - Actual factorial value of 1 is: The factorial of 1 is: 1.0
+05-09-2021 17:23:30 INFO - Try with input number as 200
+05-09-2021 17:23:31 INFO - Factorial value obtained from UI is - The factorial of 200 is: Infinity
+05-09-2021 17:23:31 INFO - Actual factorial value of 200 is: The factorial of 200 is: Infinity
+05-09-2021 17:23:31 INFO - Try with input number as 170
+05-09-2021 17:23:32 INFO - Factorial value obtained from UI is - The factorial of 170 is: 7.257415615307999e+306
+05-09-2021 17:23:32 INFO - Actual factorial value of 170 is: The factorial of 170 is: 7.257415615307994E306
+05-09-2021 17:23:32 INFO - TEST_PASSED
+05-09-2021 17:23:32 INFO - =======================================End Test===========================================

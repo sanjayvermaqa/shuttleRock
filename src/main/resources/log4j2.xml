@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Appenders>
+        <RollingFile name="RollingFile" filename="./test-output/LogsAndScreenshots/Logs.log" filepattern="./test-output/LogsAndScreenshots/Logs_%d{dd-MM-yyyy}.log">
+            <PatternLayout pattern="%d{dd-MM-yyyy HH:mm:ss} %-5p- %msg%n" />
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+                <SizeBasedTriggeringPolicy size="100 MB" />
+            </Policies>
+            <DefaultRolloverStrategy max="20" />
+        </RollingFile>
+
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{dd-MM-yyyy HH:mm:ss} %-5p- %msg%n" />
+        </Console>
+
+    </Appenders>
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="RollingFile" />
+            <AppenderRef ref="Console" />
+        </Root>
+    </Loggers>
+</Configuration>
